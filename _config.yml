@@ -42,11 +42,11 @@ c4sponsorsUrl: "/assets/dsa-2020-kampala-Scholarship.pdf"
 navigationLinks:
  # - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/news/", text: "News"}
+ #- {permalink: "/schedule/", text: "Schedule"}
+ #- {permalink: "/news/", text: "News"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Virtual Field Work"}
+ #- {permalink: "/logistics/", text: "Logistics"}
+ #- {permalink: "/hackathon/", text: "Virtual Field Work"}
  - {link: "http://www.datascienceafrica.org", text: "Past Meetings"}
  - {link: "http://www.datascienceafrica.org", text: "DSA Org"}
 # bottomNavigationLinks:
