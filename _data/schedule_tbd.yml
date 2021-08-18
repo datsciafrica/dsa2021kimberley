@@ -1,0 +1,411 @@
+# Instructions
+#
+# Schedule is organized in tracks (summer school, field work and workshop)
+# This represented by the tuple
+#  [session_id_ss, session_id_fw, ...]
+# Use:
+# - 404 --> to indicate skip/missing section in a track
+# - small-break --> coffee break
+# - large-break --> lunch break
+
+
+# Summer school and field work.
+# ----------------------
+-
+  date: "2020-07-24"
+  dateReadable: "July 24, 2020"
+  tracks:
+    - {title: "Summer School", color: "#00843E"}
+    # - {title: "Field Work", color: "#000000"}
+  timeslots:
+    - {
+    	startTime: "08:00",
+    	endTime: "08:30",
+    	sessionIds: [welcome-remarks]
+    }
+    - {
+        startTime: "08:30",
+        endTime: "10:00",
+        sessionIds: [intro_python]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "12:00",
+    	sessionIds: [classification_regression]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "12:30",
+        sessionIds: [small-break]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "14:30",
+    	sessionIds: [ml_systems]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "16:30",
+        sessionIds: [data_viz]
+    }
+    # - {
+    # 	startTime: "16:30",
+    # 	endTime: "17:30",
+    # 	sessionIds: [404]
+    # }
+-
+  date: "2020-07-25"
+  dateReadable: "July 25, 2020"
+  tracks:
+    - {title: "Summer School", color: "#00843E"}
+    # - {title: "Field Work", color: "#000000"}
+  timeslots:
+    - {
+    	startTime: "08:00",
+    	endTime: "10:00",
+    	sessionIds: [anomaly_detection]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "11:30",
+        sessionIds: [tahmo]
+    }
+    - {
+        startTime: "11:30",
+        endTime: "12:00",
+        sessionIds: [deep_learning_intro]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "12:30",
+    	sessionIds: [small-break]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "14:00",
+        sessionIds: [process_mining]
+    }
+    # - {
+    #     startTime: "14:00",
+    #     endTime: "15:30",
+    #     sessionIds: [blank]
+    # }
+    - {
+        startTime: "15:30",
+        endTime: "16:00",
+        sessionIds: [deep_learning_intro_2]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "17:00",
+        sessionIds: [deep_learning_intro_practicals]
+    }
+-
+  date: "2020-07-28"
+  dateReadable: "July 28, 2020"
+  tracks:
+    - {title: "Summer School", color: "#00843E"}
+    # - {title: "Field Work", color: "#000000"}
+  timeslots:
+    - {
+        startTime: "08:00",
+        endTime: "09:00",
+        sessionIds: [intro_gps]
+    }
+    - {
+    	startTime: "09:00",
+    	endTime: "10:30",
+    	sessionIds: [satellite_analysis]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "12:00",
+        sessionIds: [data_for_good]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "12:30",
+    	sessionIds: [small-break]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "14:30",
+        sessionIds: [mechanism_design]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "16:00",
+        sessionIds: [computer_vision]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "17:00",
+        sessionIds: [nlp]
+    }
+-
+  date: "2020-07-29"
+  dateReadable: "July 29, 2020"
+  tracks:
+    - {title: "Summer School", color: "#00843E"}
+    # - {title: "Field Work", color: "#000000"}
+  timeslots:
+    - {
+        startTime: "08:00",
+        endTime: "09:00",
+        sessionIds: [social_media_analysis]
+    }
+    - {
+        startTime: "09:00",
+        endTime: "11:00",
+        sessionIds: [md4sg]
+    }
+    # - {
+    #     startTime: "10:00",
+    #     endTime: "11:00",
+    #     sessionIds: [md4sg]
+    # }
+    - {
+        startTime: "11:00",
+        endTime: "12:00",
+        sessionIds: [embeddings]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "12:30",
+        sessionIds: [small-break]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:30",
+        sessionIds: [embeddings_labs]
+    }
+    - {
+        startTime: "13:30",
+        endTime: "14:30",
+        sessionIds: [r_talk]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "15:30",
+        sessionIds: [data_eng]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "17:00",
+        sessionIds: [ml_health_ethics]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "17:15",
+        sessionIds: [ss_conclusion]
+    }
+
+    
+
+# --------------------------------------------------
+# Workshop
+-
+  date: "2020-07-30"
+  dateReadable: "July 30, 2020 - Workshop Day I"
+  tracks:
+    - {title: "Workshop", color: "#E31C23"}
+  timeslots:
+    - {
+        startTime: "08:00",
+        endTime: "08:30",
+        sessionIds: [welcome-remarks]
+    }
+    - {
+        startTime: "08:30",
+        endTime: "09:00",
+        sessionIds: [keynote_dina]
+    }
+    - {
+        startTime: "09:00",
+        endTime: "09:20",
+        sessionIds: [paper1]
+    }
+    - {
+        startTime: "09:20",
+        endTime: "09:40",
+        sessionIds: [paper2]
+    }
+    - {
+        startTime: "09:40",
+        endTime: "10:00",
+        sessionIds: [paper3]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "10:30",
+    	sessionIds: [keynote_Engineer]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "11:10",
+        sessionIds: [blank]
+    }
+    - {
+    	startTime: "11:10",
+    	endTime: "11:45",
+    	sessionIds: [fb_recruiting]
+    }
+    - {
+        startTime: "11:45",
+        endTime: "12:30",
+        sessionIds: [small-break]
+    }
+    - {
+        # Keynote 2
+        startTime: "12:30",
+        endTime: "13:00",
+        sessionIds: [keynote_Ernest]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:20",
+        sessionIds: [paper6]
+    }
+    - {
+        startTime: "13:20",
+        endTime: "13:40",
+        sessionIds: [paper7]
+    }
+    - {
+        startTime: "13:40",
+        endTime: "14:00",
+        sessionIds: [paper8]
+    }
+    - {
+        # Panel
+        startTime: "14:00",
+        endTime: "14:30",
+        sessionIds: [panel_agriculture_ai]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "14:50",
+        sessionIds: [jared_talk]
+    }
+    - {
+        startTime: "14:50",
+        endTime: "15:30",
+        sessionIds: [blank]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "16:00",
+        sessionIds: [africapolis]
+    }
+    - {
+        # Lacuna
+        startTime: "16:00",
+        endTime: "16:30",
+        sessionIds: [social_connectedness]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "17:00",
+        sessionIds: [lacuna_fund_talk]
+    }
+    - {
+        # day wrap up
+        startTime: "17:00",
+        endTime: "17:15",
+        sessionIds: [day_wrap]
+    }
+-
+  date: "2020-08-01"
+  dateReadable: "August 1, 2020 - Workshop Day II"
+  tracks:
+    - {title: "Workshop", color: "#E31C23"}
+  timeslots:
+    - {
+        startTime: "08:00",
+        endTime: "08:30",
+        sessionIds: [keynote_elaine]
+    }
+    - {
+        startTime: "08:30",
+        endTime: "08:50",
+        sessionIds: [paper4]
+    }
+    - {
+        startTime: "08:50",
+        endTime: "09:10",
+        sessionIds: [paper5]
+    }
+    - {
+        startTime: "09:10",
+        endTime: "09:40",
+        sessionIds: [jason_talk]
+    }
+    - {
+        startTime: "09:40",
+        endTime: "10:00",
+        sessionIds: [paper9]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:20",
+        sessionIds: [paper10]
+    }
+    - {
+        startTime: "10:20",
+        endTime: "11:00",
+        sessionIds: [megain_talk]
+    }
+    # - {
+    #     startTime: "10:30",
+    #     endTime: "11:00",
+    #     sessionIds: [papers]
+    # }
+    - {
+        startTime: "11:00",
+        endTime: "11:30",
+        sessionIds: [blank]
+    }
+    # - {
+    #     startTime: "11:20",
+    #     endTime: "11:45",
+    #     sessionIds: [tbd]
+    # }
+    - {
+        startTime: "11:30",
+        endTime: "12:30",
+        sessionIds: [small-break]
+    }
+    - {
+        # Keynote 2
+        startTime: "12:30",
+        endTime: "14:00",
+        sessionIds: [UNGlobal_Pulse]
+    
+    }
+    - {
+        # Panel
+        startTime: "14:00",
+        endTime: "14:30",
+        sessionIds: [beatrice_talk]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "15:15",
+        sessionIds: [dsa_ug]
+    }
+    - {
+        startTime: "15:15",
+        endTime: "16:00",
+        sessionIds: [fb_hackathon] #sabelo_keynote
+    }
+    - {
+        startTime: "16:00",
+        endTime: "16:30",
+        sessionIds: [dsa_grant]
+    }
+    - {
+        # day wrap up
+        startTime: "16:30",
+        endTime: "17:00",
+        sessionIds: [day_wrap]
+    }
