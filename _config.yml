@@ -10,10 +10,10 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'original_readme.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "Virtual Data Science Africa Cape Town 2021"
+title: "Virtual Data Science Africa Kimberley 2021"
 email: "info@datascienceafrica.org"
-description: "Virtual DSA Cape Town 2021"
-baseurl: "/dsa2021capetown"
+description: "Virtual DSA Kimberley 2021"
+baseurl: "/dsa2021kimberley"
 url: "http://www.datascienceafrica.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-80484960-1"
