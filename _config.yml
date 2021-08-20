@@ -92,10 +92,10 @@ aboutBlock:
  - {title: "Workshop", image: "hackathon.jpg", text: "The workshop will be organized around paper presentations and interactive panel discussions. The theme for the workshop is Women and Data in Africa. We want to highlight the work of women data scientists and increase representation of women in Data Science in Africa. We strongly encourage the participation of women from across the continent." }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "The-Big-Hole-1-1.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "+", info: "attendees", detail: "from all over Africa and the world"}
- - {count: "72", specialCharacter: "+", info: "hours", detail: "of training in ML, Data Science ad IoT"}
+ - {count: "25", specialCharacter: "+", info: "Participation from", detail: "African countries"}
+ - {count: "50", specialCharacter: "+", info: "topics", detail: "covered"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from all over the world"}
 
 # Latest News Block

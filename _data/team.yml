@@ -1,63 +1,63 @@
 # Organizers
 -
   id: 0
-  name: "Joyce"
-  surname: "Nabende"
+  name: "Mpofu"
+  surname: "Nontokozo"
   title: "General Chair"
-  thumbnailUrl: joyce.jpg
+  thumbnailUrl: placeholder_avatar.png
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/j_nabende"}
     - {name: "site", link: "http://site.com/"}
 -
   id: 2
-  name: "Billy"
-  surname: "Okal"
+  name: "Nsoesie"
+  surname: "Elaine"
   title: "Program Chair"
-  thumbnailUrl: billy.jpg
+  thumbnailUrl: placeholder_avatar.png
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/jadalawa"}
     - {name: "site", link: "http://makokal.com/"}
--
-  id: 3
-  name: "Martin"
-  surname: "Mubangizi"
-  title: "Workshop Chair"
-  thumbnailUrl: martin.png
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
-    - {name: "site", link: "http://site.com/"}
--
-  id: 4
-  name: "Engineer"
-  surname: "Bainomugisha"
-  title: "Field Work Chair"
-  thumbnailUrl: engineer.png
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/iBaino"}
-    - {name: "site", link: "http://site.com/"}
-
--
-  id: 5
-  name: "Morine"
-  surname: "Amutorine"
-  title: "Social Media and Communications"
-  thumbnailUrl: morine.jpg
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/theamutorine"}
-    - {name: "site", link: "http://site.com/"}
-
--
-  id: 6
-  name: "Solomon"
-  surname: "Nsumba"
-  title: "Local Assistance"
-  thumbnailUrl: solomon.jpg
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/snsumba"}
-    - {name: "site", link: "http://site.com/"}
+#-
+#  id: 3
+#  name: "Martin"
+#  surname: "Mubangizi"
+#  title: "Workshop Chair"
+#  thumbnailUrl: martin.png
+#  team: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
+#    - {name: "site", link: "http://site.com/"}
+#-
+#  id: 4
+#  name: "Engineer"
+#  surname: "Bainomugisha"
+#  title: "Field Work Chair"
+#  thumbnailUrl: engineer.png
+#  team: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/iBaino"}
+#    - {name: "site", link: "http://site.com/"}
+#
+#-
+#  id: 5
+#  name: "Morine"
+#  surname: "Amutorine"
+#  title: "Social Media and Communications"
+#  thumbnailUrl: morine.jpg
+#  team: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/theamutorine"}
+#    - {name: "site", link: "http://site.com/"}
+#
+#-
+#  id: 6
+#  name: "Solomon"
+#  surname: "Nsumba"
+#  title: "Local Assistance"
+#  thumbnailUrl: solomon.jpg
+#  team: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/snsumba"}
+#    - {name: "site", link: "http://site.com/"}
