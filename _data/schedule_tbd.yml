@@ -12,10 +12,10 @@
 # Summer school and field work.
 # ----------------------
 -
-  date: "2020-07-24"
-  dateReadable: "July 24, 2020"
+  date: "2021-10-04"
+  dateReadable: "October 04, 2021"
   tracks:
-    - {title: "Summer School", color: "#00843E"}
+    - {title: "Summer School", color: "#cd594a"}
     # - {title: "Field Work", color: "#000000"}
   timeslots:
     - {

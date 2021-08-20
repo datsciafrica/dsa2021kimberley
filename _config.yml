@@ -42,7 +42,7 @@ c4sponsorsUrl: "/assets/dsa-2020-kampala-Scholarship.pdf"
 navigationLinks:
  # - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "Speakers"}
- #- {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/news/", text: "News"}
  - {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}
@@ -86,10 +86,10 @@ prepLinks:
 # About Block
 aboutTitle: "Highlights"
 aboutBlock:
- - {title: "Embedded ML - Tiny ML", image: "conference.jpg", text: "TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of tiny devices and embedded systems. Successful deployment in this field requires intimate knowledge of applications, algorithms, hardware, and software." }
- - {title: "Summer School", image: "workshop.jpg", text: "In the tradition of previous Data Science Africa  events, a summer school on machine learning and data science will be held prior to the main workshop. This summer school will target graduate students, researchers and professionals working with huge amounts of data or unique datasets.
+ - {title: "Embedded ML - Tiny ML", image: "Embedded ML-TinyML.png", text: "TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance- and power-constrained domain of tiny devices and embedded systems. Successful deployment in this field requires intimate knowledge of applications, algorithms, hardware, and software." }
+ - {title: "Summer School", image: "conference.jpg", text: "In the tradition of previous Data Science Africa  events, a summer school on machine learning and data science will be held prior to the main workshop. This summer school will target graduate students, researchers and professionals working with huge amounts of data or unique datasets.
 " }
- - {title: "Workshop", image: "hackathon.jpg", text: "The workshop will be organized around paper presentations and interactive panel discussions. The theme for the workshop is Women and Data in Africa. We want to highlight the work of women data scientists and increase representation of women in Data Science in Africa. We strongly encourage the participation of women from across the continent." }
+ - {title: "Workshop", image: "workshop.jpg", text: "The workshop will be organized around paper presentations and interactive panel discussions. The theme for the workshop is Women and Data in Africa. We want to highlight the work of women data scientists and increase representation of women in Data Science in Africa. We strongly encourage the participation of women from across the continent." }
 
 # Statistic Block
 statisticBlockImage: "The-Big-Hole-1-1.jpg"

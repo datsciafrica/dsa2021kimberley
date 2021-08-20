@@ -1,24 +1,36 @@
 <!-- Begin Statistic Section -->
-<section id="statistic" class="statistic image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.statisticBlockImage }});">
-	<div class="overlay solid-overlay"></div>
-	<div class="content-wrapper">
-		<div class="col-lg-10 col-lg-offset-1">
-			{% assign animationDelay = 0 %}
-            {% for statistic in site.statisticBlock %}
-            {% assign colWidth = 12 | divided_by: forloop.length %}
-            <div class="col-md-{{ colWidth }} col-xs-6">  
-                <div class="counter animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                    <div class="stat"><span class="timer" data-from="0" data-to="{{ statistic.count}}">{{ statistic.count}}</span>{{ statistic.specialCharacter}}</div>
-					<div class="stat-info">{{ statistic.info}}</div>
-					<hr>
-					<p class="small">{{ statistic.detail}}</p>
+<div class="row">
+    <div class="col-md-7 col-lg-offset-1"> 
+        <h5>Locations where DSA events have been and are planned to be held and when they were/will be held.</h5>
+        <br>
+        <img class="img-responsive" src="{{ site.baseurl }}/img/about-section/dsainAfrica-01.png">
+        
+        
+    </div>
+    <div class="col-md-4"> 
+        <section id="statistic" class="statistic image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.statisticBlockImage }});">
+            <div class="overlay solid-overlay"></div>
+            <div class="content-wrapper">
+                <div class="col-lg-10 col-lg-offset-1">
+                    {% assign animationDelay = 0 %}
+                    {% for statistic in site.statisticBlock %}
+<!--                    {% assign colWidth = 12 | divided_by: forloop.length %}-->
+                    <div class="col-md-12 col-xs-6">  
+                        <div class="counter animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                            <div class="stat"><span class="timer" data-from="0" data-to="{{ statistic.count}}">{{ statistic.count}}</span>{{ statistic.specialCharacter}}</div>
+                            <div class="stat-info">{{ statistic.info}}</div>
+                            <hr>
+                            <p class="small">{{ statistic.detail}}</p>
+                        </div>
+                    </div>
+                    {% assign animationDelay = animationDelay | plus:500 %}
+                    {% assign check = forloop.index | modulo:2 %}
+                    {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                    {% endfor %}
                 </div>
             </div>
-            {% assign animationDelay = animationDelay | plus:500 %}
-            {% assign check = forloop.index | modulo:2 %}
-            {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
-            {% endfor %}
-		</div>
-	</div>
-</section>
+        </section>
+    </div>
+</div>
+
 <!-- End Statistic Section -->
