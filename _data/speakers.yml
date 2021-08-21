@@ -465,9 +465,9 @@
 
 -
   id: dummy
-  name: "First"
-  surname: "Last"
-  company: "Affiliation"
+  name: "TBC"
+  surname: ""
+  company: "TBC"
   title: "Title"
   bio: ""
   thumbnailUrl: person.jpg

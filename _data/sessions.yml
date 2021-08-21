@@ -21,15 +21,7 @@
   language: en
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: computer_vision
-  title: "Computer Vision"
-  description: "TBD"
-  subtype: presentation
-  speakers: [ernest]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/"
+
 -
   id: 003
   title: "Reinforcement Learning and Robotics"
@@ -58,87 +50,142 @@
 #   complexity: "Beginner"
 #   presentation: "https://speakerdeck.com/"
 #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-
+# Summer School Schedule 4th October-------------------------------------------------------------------
 -
-  id: intro_python
-  title: "Introduction to Python & Jupyter Environment"
-  description: "General introduction to programming in Python and data science using Jupyter and Collab"
+  id: welcome-remarks
+  title: "Welcome and opening remarks"
+  description: "Introduction to the summer school"
   subtype: presentation
-  speakers: [neema, claire]
+  speakers: [dummy]
   language: en
   complexity: "Beginner"
-  presentation: "https://github.com/datsciafrica/presentations/blob/master/kampala2020/neema_intro_python.pdf"
 -
-  id: embeddings
-  title: "Visualizing high dimensional data with PCA and tSNE"
+  id: data_ecosystems
+  title: "Data ecosystems + tutorial "
+  description: "General introduction to Data ecosystems + tutorial "
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+-
+  id: data_analytics
+  title: "Data analytics + tutorial using python"
   description: "Visualizing high dimensional data with PCA and tSNE"
   subtype: presentation
-  speakers: [berens]
+  speakers: [dummy]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 -
-  id: embeddings_labs
-  title: "Practical labs for Visualizing high dimensional data with PCA and tSNE"
-  description: "Lab: Visualizing high dimensional data with PCA and tSNE"
+  id: communicating_results
+  title: "Communicating results - visualizations and scientific writing  + tutorial using R"
+  description: "Communicating results - visualizations and scientific writing  + tutorial using R"
   subtype: presentation
-  speakers: [berens]
+  speakers: [dummy]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 -
-  id: ml_systems
-  title: "Machine Learning Systems, Streaming Data"
+  id: networking
+  title: "Networking (breakout groups)"
   description: "TBD"
   subtype: presentation
-  speakers: [meissner,andrei,neil]
+  speakers: [dummy]
   language: en
   complexity: "Intermediate"
-  presentation: "https://colab.research.google.com/github/lawrennd/talks/blob/gh-pages/_notebooks/2020-07-24-ml-systems.ipynb"
+  presentation: ""
+  
+# Summer School Day 2----------------------------------------------------------------------
 -
-  id: intro_gps
-  title: "Introduction to Gaussian Processes"
-  description: "TBD"
+  id: welcome-remarks_2
+  title: "Welcome and opening remarks"
+  description: "Introduction to the summer school"
   subtype: presentation
-  speakers: [charles]
+  speakers: [dummy]
   language: en
-  complexity: "Advanced"
-  presentation: "tbd"
+  complexity: "Beginner"
 
 -
-  id: deep_learning_intro
-  title: "Introduction to Deep Learning"
-  description: "Practical consideration introductory deep learning"
+  id: embedded_ML_course
+  title: "Embedded ML course content (includes introduction to ML classification and regression)"
+  description: ""
   subtype: presentation
-  speakers: [andreas]
+  speakers: [dummy]
   language: en
   complexity: "Intermediate"
-  presentation: "https://docs.google.com/presentation/d/1z-kJXndhi-nf7X9nmzc368pO6Zh3XlWOoXkQ_Y6XRzY/edit#slide=id.g35f391192_00"
-  video: "//www.youtube.com/embed/tBTzVR6hO08"
+  presentation: ""
 -
-  id: deep_learning_intro_2
-  title: "Introduction to Deep Learning II"
+  id: fundamentals_IoT
+  title: "Fundamentals of IoT"
   description: "TBD"
   subtype: presentation
-  speakers: [benakera]
+  speakers: [dummy]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
+  
+#Summer School Day 3---------------------------------------------------------------------------
 -
-  id: deep_learning_intro_practicals
-  title: "Deep Learning Practicals"
+  id: welcome-remarks_3
+  title: "Welcome and opening remarks"
+  description: "Introduction to the summer school"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  
+-
+  id: intro_gaussian_processes
+  title: "Introduction to Gaussian Processes + tutorial"
   description: "TBD"
   subtype: presentation
-  speakers: [andreas, benakera]
+  speakers: [dummy]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: process_mining
-  title: "Introduction to Process Mining: Data Science in Action"
+  id: natural_language_processing
+  title: "Natural Language Processing + tutorial "
   description: "TBD"
   subtype: presentation
-  speakers: [joyce]
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: deep_learning_fundamentals
+  title: "Deep Learning Fundamentals"
+  description: "TBD"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: computer_vision
+  title: "Computer Vision + tutorial"
+  description: "TBD"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: mechanism_design
+  title: "Mechanism Design for Social Good + tutorial"
+  description: "TBD"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: conclusion
+  title: "conclusion"
+  description: "TBD"
+  subtype: presentation
+  speakers: [dummy]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -213,15 +260,7 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-- 
-  id: mechanism_design
-  title: "Global Challenges in Economics and Computation"
-  subtype: presentation
-  speakers: [sodomka]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
+
   id: ml_health_ethics
   title: "Ethics in ML for Health"
   subtype: presentation
@@ -559,14 +598,7 @@ discriminative deep learning model for farmland bird invasion identification and
   complexity: "Beginner"
   presentation: "tbd"
 
--
-  id: tbd
-  title: "TBD"
-  description: "TBD"
-  subtype: presentation
-  speakers: [dummy]
-  language: en
-  complexity: "Beginner"
+
 
 -
   id: blank
@@ -575,11 +607,4 @@ discriminative deep learning model for farmland bird invasion identification and
   subtype: presentation
   speakers: []
 
--
-  id: welcome-remarks
-  title: "Welcome and opening remarks"
-  description: "Introduction to the summer school"
-  subtype: presentation
-  speakers: [joyce,billy]
-  language: en
-  complexity: "Beginner"
+
