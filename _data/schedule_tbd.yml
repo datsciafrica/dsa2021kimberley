@@ -77,8 +77,8 @@
     	sessionIds: [small-break]
     }
     - {
-        startTime: "12:30",
-        endTime: "13:00",
+        startTime: "10:30",
+        endTime: "12:30",
         sessionIds: [fundamentals_IoT]
     }
     # - {
@@ -87,8 +87,8 @@
     #     sessionIds: [blank]
     # }
     - {
-        startTime: "15:30",
-        endTime: "16:00",
+        startTime: "12:30",
+        endTime: "13:00",
         sessionIds: [networking]
     }
 #    - {
