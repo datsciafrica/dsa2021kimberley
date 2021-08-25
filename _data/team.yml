@@ -14,11 +14,11 @@
   name: "Nsoesie"
   surname: "Elaine"
   title: "Program Chair"
-  thumbnailUrl: placeholder_avatar.png
+  thumbnailUrl: Elaine-Nsoesie.png
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/jadalawa"}
-    - {name: "site", link: "http://makokal.com/"}
+    - {name: "twitter", link: "https://twitter.com/ensoesie"}
+    - {name: "site", link: "https://www.bu.edu/sph/profile/elaine-nsoesie/"}
 #-
 #  id: 3
 #  name: "Martin"

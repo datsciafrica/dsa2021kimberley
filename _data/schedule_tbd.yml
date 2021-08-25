@@ -15,7 +15,7 @@
   date: "2021-10-04"
   dateReadable: "October 04, 2021"
   tracks:
-    - {title: "Summer School", color: "#cd594a"}
+    - {title: "Summer School", color: "#e21937"}
     # - {title: "Field Work", color: "#000000"}
   timeslots:
     - {
@@ -58,16 +58,16 @@
   date: "2021-10-05"
   dateReadable: "October 05, 2021"
   tracks:
-    - {title: "Summer School", color: "#00843E"}
+    - {title: "Summer School", color: "#ebddba"}
     # - {title: "Field Work", color: "#000000"}
   timeslots:
+#    - {
+#    	startTime: "08:00",
+#    	endTime: "08:15",
+#    	sessionIds: [welcome-remarks_2]
+#    }
     - {
-    	startTime: "08:00",
-    	endTime: "08:15",
-    	sessionIds: [welcome-remarks_2]
-    }
-    - {
-        startTime: "08:15",
+        startTime: "08:00",
         endTime: "10:15",
         sessionIds: [embedded_ML_course]
     }
@@ -100,16 +100,16 @@
   date: "2021-10-06"
   dateReadable: "October 06, 2021"
   tracks:
-    - {title: "Summer School", color: "#00843E"}
+    - {title: "Summer School", color: "#f89828"}
     # - {title: "Field Work", color: "#000000"}
   timeslots:
+#    - {
+#        startTime: "08:00",
+#        endTime: "08:15",
+#        sessionIds: [welcome-remarks_3]
+#    }
     - {
-        startTime: "08:00",
-        endTime: "08:15",
-        sessionIds: [welcome-remarks_3]
-    }
-    - {
-    	startTime: "08:15",
+    	startTime: "08:00",
     	endTime: "09:15",
     	sessionIds: [intro_gaussian_processes, natural_language_processing]
     }

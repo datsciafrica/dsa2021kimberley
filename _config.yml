@@ -94,7 +94,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "The-Big-Hole-1-1.jpg"
 statisticBlock:
- - {count: "25", specialCharacter: "+", info: "Participation from", detail: "African countries"}
+ - {count: "25", specialCharacter: "+", info: "African countries", detail: "participation"}
  - {count: "50", specialCharacter: "+", info: "topics", detail: "covered"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from all over the world"}
 
