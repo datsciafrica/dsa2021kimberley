@@ -70,9 +70,6 @@ heroButtons:
 #eventDate: "July 24 - Aug 1, 2020"
 startRegistration: "June 20, 2021"
 endRegistration: "July 28, 2021"
-#typeoutTextValues: ''
-# typeoutTextValues: '"", "Kampala 2013", "Nyeri 2015", "Kampala 2016", "Arusha 2017", "Nyeri 2018", "Abuja 2018", "Addis 2019", "Accra 2019"'
-typeoutFallback: "Kampala 2020"
 heroButtons:
  - {permalink: "/tbd", text: "Register Now"}
  # - {permalink: "/tbd", text: "Submit Workshop Abstract"}
@@ -140,7 +137,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:dsakampala2020@gmail.com", text: "dsakampala2020@gmail.com"}
+#   - {link: "mailto:dsakampala2020@gmail.com", text: "dsakampala2020@gmail.com"}
    - {link: "mailto:info@datascienceafrica.org", text: "info@datascienceafrica.org"}
  -
   title: "FAQ"
