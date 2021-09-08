@@ -25,28 +25,28 @@
     }
     - {
         startTime: "08:15",
-        endTime: "09:15",
-        sessionIds: [data_ecosystems]
+        endTime: "09:30",
+        sessionIds: [python_basics]
     }
     - {
-    	startTime: "09:15",
-    	endTime: "10:15",
-    	sessionIds: [data_analytics]
+    	startTime: "09:30",
+    	endTime: "10:45",
+    	sessionIds: [ML_Fundamentals]
     }
     - {
-        startTime: "10:15",
-        endTime: "10:30",
+        startTime: "10:45",
+        endTime: "11:00",
         sessionIds: [small-break]
     }
     - {
-    	startTime: "10:30",
+    	startTime: "11:00",
     	endTime: "12:30",
-    	sessionIds: [communicating_results]
+    	sessionIds: [data_visualisation]
     }
     - {
         startTime: "12:30",
-        endTime: "13:00",
-        sessionIds: [networking]
+        endTime: "",
+        sessionIds: [networking_04]
     }
     # - {
     # 	startTime: "16:30",
@@ -68,28 +68,28 @@
 #    }
     - {
         startTime: "08:00",
-        endTime: "10:15",
-        sessionIds: [embedded_ML_course]
+        endTime: "10:30",
+        sessionIds: [Embedded_ML]
     }
     - {
-    	startTime: "10:15",
-    	endTime: "10:30",
+    	startTime: "10:30",
+    	endTime: "10:45",
     	sessionIds: [small-break]
     }
     - {
-        startTime: "10:30",
-        endTime: "12:30",
+        startTime: "10:45",
+        endTime: "12:15",
         sessionIds: [fundamentals_IoT]
     }
-    # - {
-    #     startTime: "14:00",
-    #     endTime: "15:30",
-    #     sessionIds: [blank]
-    # }
     - {
-        startTime: "12:30",
-        endTime: "13:00",
-        sessionIds: [networking]
+         startTime: "12:15",
+         endTime: "13:15",
+         sessionIds: [Live_instructor]
+     }
+    - {
+        startTime: "13:15",
+        endTime: "",
+        sessionIds: [networking_05]
     }
 #    - {
 #        startTime: "16:00",
@@ -103,41 +103,41 @@
     - {title: "Summer School", color: "#f89828"}
     # - {title: "Field Work", color: "#000000"}
   timeslots:
-#    - {
-#        startTime: "08:00",
-#        endTime: "08:15",
-#        sessionIds: [welcome-remarks_3]
-#    }
     - {
-    	startTime: "08:00",
-    	endTime: "09:15",
-    	sessionIds: [intro_gaussian_processes, natural_language_processing]
+        startTime: "08:00",
+        endTime: "09:30",
+        sessionIds: [big_data]
     }
     - {
-        startTime: "09:15",
-        endTime: "10:15",
-        sessionIds: [deep_learning_fundamentals]
-    }
-    - {
-    	startTime: "10:15",
+    	startTime: "09:30",
     	endTime: "10:30",
-    	sessionIds: [small-break]
+    	sessionIds: [social_media_analytics]
     }
     - {
         startTime: "10:30",
-        endTime: "12:30",
-        sessionIds: [computer_vision, mechanism_design]
+        endTime: "10:45",
+        sessionIds: [small-break]
     }
     - {
-        startTime: "12:30",
-        endTime: "13:00",
-        sessionIds: [conclusion]
+    	startTime: "10:45",
+    	endTime: "11:45",
+    	sessionIds: [deep_learning_fundamentals, natural_language_processing]
     }
-#    - {
-#        startTime: "16:00",
-#        endTime: "17:00",
-#        sessionIds: [nlp]
-#    }
+    - {
+        startTime: "11:45",
+        endTime: "12:45",
+        sessionIds: [machine_learning]
+    }
+    - {
+        startTime: "12:45",
+        endTime: "13:00",
+        sessionIds: [closing_remarks]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "",
+        sessionIds: [networking_06]
+    }
 #-
 #  date: "2020-07-29"
 #  dateReadable: "July 29, 2020"

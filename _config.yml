@@ -35,7 +35,7 @@ twitterAccount: "@dsa_org"
 
 # Documents
 c4pUrl: "http://www.datascienceafrica.org"
-c4sponsorsUrl: "/assets/dsa-2020-kampala-Scholarship.pdf"
+#c4sponsorsUrl: "/assets/dsa-2020-kampala-Scholarship.pdf"
 
 
 # Navigation
@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Virtual Field Work"}
- - {link: "http://www.datascienceafrica.org", text: "Past Meetings"}
+ - {link: "http://www.datascienceafrica.org#events", text: "Past Meetings"}
  - {link: "http://www.datascienceafrica.org", text: "DSA Org"}
 # bottomNavigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -76,7 +76,7 @@ heroButtons:
 prepLinks:
  - {link: "https://jupyter.readthedocs.io/en/latest/", text: "Getting started with Jupyter notebooks"}
  - {link: "https://scipy-lectures.org", text: "Introductory SciPy lectures"}
- - {link: "https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html", text: "Pandas 101"}
+# - {link: "https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html", text: "Pandas 101"}
  - {link: "https://colab.research.google.com/notebooks/intro.ipynb", text: "Colab basics"}
  - {link: "https://github.com/datsciafrica/presentations", text: "Previous DSA events material"}
 
@@ -103,8 +103,8 @@ locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"
 eventLocationLink: ""
 eventStreetAddress: "AoE"
-eventAddressLocality: "Kampala"
-eventAddressLocalityRegion: "Kampala"
+eventAddressLocality: "Kimberley"
+eventAddressLocalityRegion: "Kimberley"
 eventPostalCode: "00000"
 eventAddressCountry: "Uganda"
 eventStartTime: "2020-06-22T08:00"

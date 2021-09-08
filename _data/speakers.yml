@@ -1,56 +1,67 @@
-#-
-#  id: ciira
-#  name: "Ciira"
-#  surname: "Maina"
-#  company: "Dedan Kimathi University of Technology"
-#  title: "Senior Lecturer and Director, Center for Data Science and AI"
-#  bio: ""
-#  thumbnailUrl: ciira.jpg
+-
+  id: mpofu
+  name: "Mpofu"
+  surname: "Nontokozo"
+  title: "Data Science lecturer"
+  company: "Sol Plaatje University"
+  thumbnailUrl: person.jpg 
 #  social:
-#    - {name: "twitter", link: "https://twitter.com/CwaMaina"}
-#    - {name: "site", link: "http://ciirawamaina.com/"}
-#  ribbon:
-#    - {abbr: "DBM", title: "DSA Board Chair", url: "https://datascienceafrica.org"}
-#-
-#  id: dina
-#  name: "Dina"
-#  surname: "Machuve"
-#  company: "Nelson Mandela African Institute of Science and Technology"
-#  title: "Lecturer"
-#  bio: ""
-#  thumbnailUrl: dina.jpg
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/dmachuve"}
-#    - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
-#  ribbon:
-#    - {abbr: "DBM", title: "DSA Board Treasurer", url: "https://datascienceafrica.org"}
-#-
-#  id: ernest
-#  name: "Ernest"
-#  surname: "Mwebabze"
-#  company: "Google AI Ghana"
-#  title: "Research Scientist"
-#  bio: ""
-#  thumbnailUrl: earnest.jpg
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/earnest"}
-#  ribbon:
-#    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
-#-
-#  id: elaine
-#  name: "Elaine"
-#  surname: "Nsoesie"
-#  company: "Boston University"
-#  title: "Assistant Professor"
-#  bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems.
-#  She leads a team of computational social scientists, public health experts and computer scientists at Boston University's
-#  Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri
-#  Institute for Computing. She was born and raised in Cameroon."
-#  thumbnailUrl: elaine.jpg
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/ensoesie"}
-#  ribbon:
-#    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+#    - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
+  ribbon:
+    - {abbr: "GC", title: "General Chair", url: "https://datascienceafrica.org"}
+-
+  id: ciira
+  name: "Ciira"
+  surname: "Maina"
+  company: "Dedan Kimathi University of Technology"
+  title: "Senior Lecturer and Director, Center for Data Science and AI"
+  bio: ""
+  thumbnailUrl: ciira.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/CwaMaina"}
+    - {name: "site", link: "http://ciirawamaina.com/"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Chair", url: "https://datascienceafrica.org"}
+-
+  id: dina
+  name: "Dina"
+  surname: "Machuve"
+  company: "Nelson Mandela African Institute of Science and Technology"
+  title: "Lecturer"
+  bio: ""
+  thumbnailUrl: dina.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/dmachuve"}
+    - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Treasurer", url: "https://datascienceafrica.org"}
+-
+  id: ernest
+  name: "Ernest"
+  surname: "Mwebabze"
+  company: "Google AI Ghana"
+  title: "Research Scientist"
+  bio: ""
+  thumbnailUrl: earnest.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/earnest"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+-
+  id: elaine
+  name: "Elaine"
+  surname: "Nsoesie"
+  company: "Boston University"
+  title: "Assistant Professor"
+  bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems.
+  She leads a team of computational social scientists, public health experts and computer scientists at Boston University's
+  Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri
+  Institute for Computing. She was born and raised in Cameroon."
+  thumbnailUrl: elaine.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/ensoesie"}
+  ribbon:
+    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
 #-
 #  id: billy
 #  name: "Billy"
@@ -75,29 +86,29 @@
 #  social:
 #    - {name: "twitter", link: "https://twitter.com/DCivin"}
 #
-#-
-#  id: neema
-#  name: "Neema"
-#  surname: "Mduma"
-#  company: "Nelson Mandela African Institute of Science and Technology"
-#  title: "Assistant lecturer & PhD fellow"
-#  bio: ""
-#  thumbnailUrl: neema.jpg
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/nakadori"}
-#
-#-
-#  id: neil
-#  name: "Neil"
-#  surname: "Lawrence"
-#  company: "University of Cambridge"
-#  title: "Professor"
-#  bio: ""
-#  thumbnailUrl: neil.jpg
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/lawrend"}
-#  ribbon:
-#    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
+-
+  id: neema
+  name: "Neema"
+  surname: "Mduma"
+  company: "Nelson Mandela African Institute of Science and Technology"
+  title: "Assistant lecturer & PhD fellow"
+  bio: ""
+  thumbnailUrl: neema.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/nakadori"}
+
+-
+  id: neil
+  name: "Neil"
+  surname: "Lawrence"
+  company: "University of Cambridge"
+  title: "Professor"
+  bio: ""
+  thumbnailUrl: neil.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/lawrend"}
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
 #-
 #  id: johnquinn
 #  name: "John"
@@ -116,32 +127,32 @@
 #  title: "Post Doc"
 #  bio: ""
 #  thumbnailUrl: mike.jpg
-#-
-#  id: joyce
-#  name: "Joyce"
-#  surname: "Nabende"
-#  company: "Makerere University"
-#  title: "Lecturer & Head of AI Lab"
-#  thumbnailUrl: joyce.jpg
-#  bio: ""
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/j_nabende"}
-#    - {name: "site", link: "https://sites.google.com/view/jnabende/home?authuser=0"}
-#  ribbon:
-#    - {abbr: "GC", title: "General Chair", url: "https://datascienceafrica.org"}
-#-
-#  id: morine
-#  name: "Morine"
-#  surname: "Amutorine"
-#  title: "Data Analytics Assistant"
-#  company: "Cambridge University"
-#  thumbnailUrl: morine.jpg
-#  company: "UN Pulse Lab Kampala"
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/theamutorine"}
-#    - {name: "site", link: "http://site.com/"}
-#  ribbon:
-#    - {abbr: "DBA", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+-
+  id: joyce
+  name: "Joyce"
+  surname: "Nabende"
+  company: "Makerere University"
+  title: "Lecturer & Head of AI Lab"
+  thumbnailUrl: joyce.jpg
+  bio: ""
+  social:
+    - {name: "twitter", link: "https://twitter.com/j_nabende"}
+    - {name: "site", link: "https://sites.google.com/view/jnabende/home?authuser=0"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+-
+  id: morine
+  name: "Morine"
+  surname: "Amutorine"
+  title: "Data Analytics Assistant"
+  company: "Cambridge University"
+  thumbnailUrl: morine.jpg
+  company: "UN Pulse Lab Kampala"
+  social:
+    - {name: "twitter", link: "https://twitter.com/theamutorine"}
+    - {name: "site", link: "http://site.com/"}
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 #-
 #  id: engineer
 #  name: "Engineer"
@@ -155,24 +166,24 @@
 #  ribbon:
 #    - {abbr: "FWC", title: "Field Work Chair", url: "https://datascienceafrica.org"}
 #
-#-
-#  id: claire
-#  name: "Claire"
-#  surname: "Babirye"
-#  title: "Lecturer"
-#  company: "UTAMU"
-#  thumbnailUrl: claire2.jpg
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/bitsclarybits"}
-#-
-#  id: benakera
-#  name: "Benjamin"
-#  surname: "Akera"
-#  title: "Research Assistant, AI Lab & Co-founder Feyti Analytics"
-#  company: "MILA & Makerere University"
-#  thumbnailUrl: Akera.jpg
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/benjaminakera"}
+-
+  id: claire
+  name: "Claire"
+  surname: "Babirye"
+  title: "Lecturer"
+  company: "UTAMU"
+  thumbnailUrl: claire2.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/bitsclarybits"}
+-
+  id: benakera
+  name: "Benjamin"
+  surname: "Akera"
+  title: "Research Assistant, AI Lab & Co-founder Feyti Analytics"
+  company: "MILA & Makerere University"
+  thumbnailUrl: Akera.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/benjaminakera"}
 #-
 #  id: andreas
 #  name: "Andreas"
@@ -317,13 +328,13 @@
 #  title: "PostDoc"
 #  company: "Vector Institute"
 #  thumbnailUrl: shalmali.jpg
-#-
-#  id: hewitt
-#  name: "Hewitt"
-#  surname: "Tusiime"
-#  title: "Student"
-#  company: "Makerere University"
-#  thumbnailUrl: hewitt.jpg
+-
+  id: hewitt
+  name: "Hewitt"
+  surname: "Tusiime"
+  title: "Student"
+  company: "Makerere University"
+  thumbnailUrl: hewitt.jpg
 #-
 #  id: dorothy
 #  name: "Dorothy"
@@ -470,4 +481,64 @@
 #  company: "TBC"
 #  title: "Title"
 #  bio: ""
-#  thumbnailUrl: person.jpg
+#  thumbnailUrl: person.jpg 
+-
+  id: suvodeep
+  name: "Suvodeep"
+  surname: "Mazumdar"
+  title: "TBC"
+  company: "TBC"
+  thumbnailUrl: person.jpg
+-
+  id: nafeesa
+  name: "Nafeesa"
+  surname: "Alibedi"
+  title: "TBC"
+  company: "TBC"
+  thumbnailUrl: person.jpg
+-
+  id: maria
+  name: "Maria"
+  surname: "Nyamukuru"
+  title: "TBC"
+  company: "TBC"
+  thumbnailUrl: person.jpg
+-
+  id: anani
+  name: "Anani"
+  surname: "Sawadogo"
+  title: "TBC"
+  company: "TBC"
+  thumbnailUrl: person.jpg
+-
+  id: NVIDIA
+  name: "NVIDIA"
+  surname: "team"
+  title: "TBC"
+  company: "NVIDIA"
+  thumbnailUrl: person.jpg 
+-
+  id: Facebook
+  name: "Facebook"
+  surname: "team"
+  title: "TBC"
+  company: "Facebook"
+  thumbnailUrl: person.jpg 
+-
+  id: emmanuel
+  name: "Emmanuel"
+  surname: "Mupuya"
+  title: "TBC"
+  company: "TBC"
+  thumbnailUrl: person.jpg
+-
+  id: vukosi
+  name: "Vukosi"
+  surname: "Marivate"
+  title: "TBC"
+  company: "TBC"
+  thumbnailUrl: person.jpg
+
+
+
+  
