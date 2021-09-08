@@ -18,6 +18,6 @@
     - {name: "Sol Plaatje University", description: "Sol Plaatje University", link: "https://www.spu.ac.za/", imageUrl: "spu_logo.png", width: "120px"}
     - {name: "DeKut", description: "Dedan Kimathi University of Technology", link: "https://www.dkut.ac.ke", imageUrl: "dedan_kimathi.jpg", width: "120px"}
     - {name: "NM-AUST", description: "Nelson Mandela African Institution of Science and Technology", link: "https://www.nm-aist.ac.tz", imageUrl: "nmaist-logo.png", width: "120px"}
-    - {name: "NM-AUST", description: "Nelson Mandela African Institution of Science and Technology", link: "https://www.nm-aist.ac.tz", imageUrl: "nmaist-logo.png", width: "120px"}
+    - {name: "NM-AUST", description: "Makerere University", link: "https://www.mak.ac.ug", imageUrl: "muk.jpg", width: "120px"}
 #    - {name: "AIR Lab", description: "Makerere - AI-LAB", link: "http://www.air.ug", imageUrl: "AI.png", width: "120px"}
 #    - {name: "Pulse Lab Kampala", description: "Pulse Lab Kampala", link: "https://www.unglobalpulse.org/lab/kampala/", imageUrl: "plklogo.png", width: "120px"}

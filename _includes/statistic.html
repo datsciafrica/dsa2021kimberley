@@ -1,21 +1,22 @@
 <!-- Begin Statistic Section -->
 <section id="statistic">
-    <div class="col-lg-7 col-lg-offset-1"> 
-        <h5>Locations where DSA events have been and are planned to be held and when they were/will be held.</h5>
-        <br>
-        <img class="img-responsive" src="{{ site.baseurl }}/img/about-section/dsainAfrica-01.png">
+    <div class="row row-flex">
+    <div class="col-lg-8 col-lg-offset-1 col-md-12 col-xs-12"> 
         
+        
+        <img class="img img-responsive text-center" src="{{ site.baseurl }}/img/about-section/dsainAfrica.png">
+        <caption>Locations where DSA events have been and are planned to be held and when they were/will be held.</caption>
         
     </div>
-    <div class="col-lg-4"> 
+    <div class="col-lg-3 col-md-12 col-xs-12"> 
         <section id="statistic" class="statistic image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.statisticBlockImage }});">
             <div class="overlay solid-overlay"></div>
             <div class="content-wrapper">
-                <div class="col-lg-10 col-lg-offset-1">
+                <div class="col-lg-10 col-lg-offset-1 col-md-12 col-xs-12">
                     {% assign animationDelay = 0 %}
                     {% for statistic in site.statisticBlock %}
 <!--                    {% assign colWidth = 12 | divided_by: forloop.length %}-->
-                    <div class="col-md-12 col-xs-6">  
+                    <div class="col-md-12 col-xs-12">  
                         <div class="counter animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                             <div class="stat"><span class="timer" data-from="0" data-to="{{ statistic.count}}">{{ statistic.count}}</span>{{ statistic.specialCharacter}}</div>
                             <div class="stat-info">{{ statistic.info}}</div>
@@ -30,6 +31,7 @@
                 </div>
             </div>
         </section>
+    </div>
     </div>
 </section>
 

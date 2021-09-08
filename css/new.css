@@ -118,3 +118,8 @@ fieldset[disabled] .btn-info.active {
 /*.social-links{ height: 100px; margin-top: -10px;}*/
 
 .icon{ margin: 0px; width: 28px; height: inherit;}
+
+.row-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
