@@ -39,8 +39,8 @@
   id: ernest
   name: "Ernest"
   surname: "Mwebabze"
-  company: "Google AI Ghana"
-  title: "Research Scientist"
+  company: "Sunbird AI"
+  title: "Director"
   bio: ""
   thumbnailUrl: earnest.jpg
   social:
@@ -53,10 +53,7 @@
   surname: "Nsoesie"
   company: "Boston University"
   title: "Assistant Professor"
-  bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems.
-  She leads a team of computational social scientists, public health experts and computer scientists at Boston University's
-  Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri
-  Institute for Computing. She was born and raised in Cameroon."
+  bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems.She leads a team of computational social scientists, public health experts and computer scientists at Boston University's Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri Institute for Computing. She was born and raised in Cameroon."
   thumbnailUrl: elaine.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/ensoesie"}
@@ -145,9 +142,8 @@
   name: "Morine"
   surname: "Amutorine"
   title: "Data Analytics Assistant"
-  company: "Cambridge University"
-  thumbnailUrl: morine.jpg
   company: "UN Pulse Lab Kampala"
+  thumbnailUrl: morine.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/theamutorine"}
     - {name: "site", link: "http://site.com/"}
@@ -486,30 +482,30 @@
   id: suvodeep
   name: "Suvodeep"
   surname: "Mazumdar"
-  title: "TBC"
-  company: "TBC"
-  thumbnailUrl: person.jpg
--
-  id: nafeesa
-  name: "Nafeesa"
-  surname: "Alibedi"
-  title: "TBC"
-  company: "TBC"
-  thumbnailUrl: person.jpg
+  title: "Lecturer in Data Analytics"
+  company: "The University of Sheffield"
+  thumbnailUrl: Dr_Suvodeep_Mazumdar.jpeg
+#-
+#  id: nafeesa
+#  name: "Nafeesa"
+#  surname: "Alibedi"
+#  title: "TBC"
+#  company: "TBC"
+#  thumbnailUrl: person.jpg
 -
   id: maria
   name: "Maria"
   surname: "Nyamukuru"
-  title: "TBC"
-  company: "TBC"
-  thumbnailUrl: person.jpg
+  title: "PH.D. Student"
+  company: "Dartmouth College"
+  thumbnailUrl: maria_nyamukuru.jpeg
 -
   id: anani
   name: "Anani"
   surname: "Sawadogo"
-  title: "TBC"
-  company: "TBC"
-  thumbnailUrl: person.jpg
+  title: "Software Engineer"
+  company: "FreshAir Sensor corporation"
+  thumbnailUrl: anani.jpeg
 -
   id: NVIDIA
   name: "NVIDIA"
@@ -535,10 +531,16 @@
   id: vukosi
   name: "Vukosi"
   surname: "Marivate"
+  title: "ABSA UP Chair of Data Science"
+  company: "University of Pretoria"
+  thumbnailUrl: vukosi_marivate.jpg
+-
+  id: andrei
+  name: "Andrei"
+  surname: "Paleyes"
   title: "TBC"
   company: "TBC"
   thumbnailUrl: person.jpg
-
 
 
   

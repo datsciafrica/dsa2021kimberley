@@ -3,14 +3,14 @@
   elements:
     - {name: "GeDIA", description: "GeDIA (Gender-Just Digital Innovation in Africa)", link: "https://gedia-network.org/", imageUrl: "GeDIA.png", width: "320px"}
     #- {name: "arm", description: "arm", link: "https://www.arm.com", imageUrl: "arm-logo-blue-rgb.png"}
--
-  group: "Silver Sponsors"
-  elements:
-    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
--
-  group: "Bronze Sponsors"
-  elements:
-    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+#-
+#  group: "Silver Sponsors"
+#  elements:
+#    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+#-
+#  group: "Bronze Sponsors"
+#  elements:
+#    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
 
 -
   group: "Partners"

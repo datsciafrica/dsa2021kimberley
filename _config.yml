@@ -34,8 +34,8 @@ metaKeywords: "event, data science, africa, dsa, programming, machine learning, 
 twitterAccount: "@dsa_org"
 
 # Documents
-c4pUrl: "http://www.datascienceafrica.org"
-#c4sponsorsUrl: "/assets/dsa-2020-kampala-Scholarship.pdf"
+c4pUrl: ""
+c4sponsorsUrl: "mailto:info@datascienceafrica.org?subject=Event%20Sponsorship%20for%20DSA%202021%20Kimberley"
 
 
 # Navigation
@@ -71,7 +71,7 @@ heroButtons:
 startRegistration: "June 20, 2021"
 endRegistration: "July 28, 2021"
 heroButtons:
- - {permalink: "/tbd", text: "Register Now"}
+ - {permalink: "/tbd", text: "REGISTER NOW"}
  # - {permalink: "/tbd", text: "Submit Workshop Abstract"}
 prepLinks:
  - {link: "https://jupyter.readthedocs.io/en/latest/", text: "Getting started with Jupyter notebooks"}
@@ -116,7 +116,7 @@ mapMobileCenterCoordinates: "0.3476, 32.5825"
 
 # Partners Block
 partnersTitle: "Sponsors"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "BECOME A SPONSOR"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"

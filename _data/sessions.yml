@@ -82,7 +82,7 @@
   title: "Data visualisation methods"
   description: "introduction to Data visualisation methods"
   subtype: presentation
-  speakers: [claire, hewitt, suvodeep, nafeesa]
+  speakers: [claire, hewitt, suvodeep]
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -91,7 +91,7 @@
   title: "Breakout Sessions Networking and one on one’s with facilitators"
   description: "Breakout Sessions Networking and one on one’s with facilitators"
   subtype: presentation
-  speakers: [morine, mpofu, dina, neema, ernest, claire, hewitt, suvodeep, nafeesa]
+  speakers: [morine, mpofu, dina, neema, ernest, claire, hewitt, suvodeep]
   language: en
   complexity: "Intermediate"
   presentation: ""
@@ -177,7 +177,7 @@
   title: "Machine Learning Systems, Streaming Data"
   description: "TBD"
   subtype: presentation
-  speakers: [neil]
+  speakers: [neil,andrei]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -195,7 +195,7 @@
   title: "Breakout Sessions, Networking and one on one’s with facilitators"
   description: "TBD"
   subtype: presentation
-  speakers: [Facebook, morine, emmanuel, vukosi, joyce, benakera, neil, elaine]
+  speakers: [Facebook, morine, emmanuel, vukosi, joyce, benakera, neil, andrei, elaine]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
