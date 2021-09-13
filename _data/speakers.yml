@@ -200,15 +200,15 @@
 #  social:
 #    - {name: "twitter", link: "https://twitter.com/CellTypist"}
 #    - {name: "site", link: "http://www.eye-tuebingen.de/berens/"}
-#-
-#  id: andrei
-#  name: "Andrei"
-#  surname: "Paleyes"
-#  title: "PhD Candidate"
-#  company: "University of Cambridge"
-#  thumbnailUrl: andrei.jpg
-#  social:
-#    - {name: "site", link: "https://www.linkedin.com/in/andreipaleyes?originalSubdomain=uk"}
+-
+  id: andrei
+  name: "Andrei"
+  surname: "Paleyes"
+  title: "PhD Candidate"
+  company: "University of Cambridge"
+  thumbnailUrl: andrei.jpg
+  social:
+    - {name: "site", link: "https://www.linkedin.com/in/andreipaleyes?originalSubdomain=uk"}
 #-
 #  id: charles
 #  name: "Charles"
@@ -485,6 +485,8 @@
   title: "Lecturer in Data Analytics"
   company: "The University of Sheffield"
   thumbnailUrl: Dr_Suvodeep_Mazumdar.jpeg
+  social:
+    - {name: "site", link: "https://www.sheffield.ac.uk/is/people/academic/suvodeep-mazumdar"}
 #-
 #  id: nafeesa
 #  name: "Nafeesa"
@@ -499,6 +501,8 @@
   title: "PH.D. Student"
   company: "Dartmouth College"
   thumbnailUrl: maria_nyamukuru.jpeg
+  social:
+    - {name: "site", link: "https://www.ah-lab.cs.dartmouth.edu/our-team/maria-nyamukuru"}
 -
   id: anani
   name: "Anani"
@@ -506,6 +510,8 @@
   title: "Software Engineer"
   company: "FreshAir Sensor corporation"
   thumbnailUrl: anani.jpeg
+  social:
+    - {name: "site", link: "https://www.linkedin.com/in/t-anani-sawadogo-693b0558/"}
 -
   id: NVIDIA
   name: "NVIDIA"
@@ -527,6 +533,8 @@
   title: "TBC"
   company: "TBC"
   thumbnailUrl: person.jpg
+  social:
+    - {name: "site", link: "https://www.linkedin.com/in/emmanuel-mupuya-a2b03173/"}
 -
   id: vukosi
   name: "Vukosi"
@@ -534,13 +542,6 @@
   title: "ABSA UP Chair of Data Science"
   company: "University of Pretoria"
   thumbnailUrl: vukosi_marivate.jpg
--
-  id: andrei
-  name: "Andrei"
-  surname: "Paleyes"
-  title: "TBC"
-  company: "TBC"
-  thumbnailUrl: person.jpg
 
 
   
