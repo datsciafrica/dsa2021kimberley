@@ -112,7 +112,7 @@
   title: "Fundamentals of IoT"
   description: "Fundamentals of IoT"
   subtype: presentation
-  speakers: [ciira]
+  speakers: [ciira, jason, lorna, gabriel]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -131,7 +131,7 @@
   title: "Breakout Sessions Networking and one on one’s with facilitators"
   description: "Breakout Sessions Networking and one on one’s with facilitators"
   subtype: presentation
-  speakers: [maria, anani, ciira, NVIDIA]
+  speakers: [maria, anani, ciira, jason, lorna, gabriel, NVIDIA]
   language: en
   complexity: "Intermediate"
   presentation: ""  

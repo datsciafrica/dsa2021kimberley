@@ -422,13 +422,13 @@
 #  title: "Research Intern"
 #  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
 #  thumbnailUrl: jared.jpg
-#-
-#  id: jason
-#  name: "Jason"
-#  surname: "Kabi"
-#  title: "Research Intern"
-#  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
-#  thumbnailUrl: JasonKabi.jpg
+-
+  id: jason
+  name: "Jason"
+  surname: "Kabi"
+  title: "Research Intern"
+  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
+  thumbnailUrl: JasonKabi.jpg
 #-
 #  id: shelmith
 #  name: "Shelmith"
@@ -541,7 +541,21 @@
   surname: "Marivate"
   title: "ABSA UP Chair of Data Science"
   company: "University of Pretoria"
-  thumbnailUrl: vukosi_marivate.jpg
+  thumbnailUrl: vukosi_marivate.jpg 
+-
+  id: lorna
+  name: "Lorna"
+  surname: "Mugambi"
+  title: "TBC"
+  company: "TBC"
+  thumbnailUrl: LornaMugambi.jpg
+-
+  id: gabriel
+  name: "Gabriel"
+  surname: "Kiarie"
+  title: "TBC"
+  company: "TBC"
+  thumbnailUrl: GabrielKiarieNjoroge.jpg
 
 
   
