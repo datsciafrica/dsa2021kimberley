@@ -7,10 +7,10 @@
 #  group: "Silver Sponsors"
 #  elements:
 #    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-#-
-#  group: "Bronze Sponsors"
-#  elements:
-#    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+-
+  group: "Bronze Sponsors"
+  elements:
+     - {name: "Zindi", description: "Zindi", link: "https://zindi.africa/", imageUrl: "Zindi.png", width: "200px"}
 
 -
   group: "Partners"

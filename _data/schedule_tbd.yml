@@ -45,14 +45,14 @@
     }
     - {
         startTime: "12:30",
-        endTime: "",
-        sessionIds: [networking_04]
+        endTime: "13:00",
+        sessionIds: [hackathon_01]
     }
-    # - {
-    # 	startTime: "16:30",
-    # 	endTime: "17:30",
-    # 	sessionIds: [404]
-    # }
+    - {
+     	startTime: "13:00",
+     	endTime: "",
+     	sessionIds: [networking_04]
+     }
 # Summer school on 5th October 2021------------------------------------------------------------
 -
   date: "2021-10-05"

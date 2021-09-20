@@ -45,7 +45,8 @@ navigationLinks:
  # - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/schedule/", text: "Schedule"}
- #- {permalink: "/news/", text: "News"}
+ - {permalink: "/gallery/", text: "Gallery"}
+ - {permalink: "/news/", text: "News"}
 # - {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Virtual Field Work"}
@@ -57,7 +58,7 @@ navigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero_faint.png"
+heroImage: "image 2.jpg"
 heroTitle: "Virtual DSA <typeout> 2021"
 eventDate: "4<sup>th</sup> - 8<sup>th</sup> October, 2021"
 typeoutTextValues: '"", "Event", "Field Work", "Summer School", "Workshop"'
@@ -125,7 +126,30 @@ subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: ""
 subscribeInfo: "Registration will be open soon. Stay tuned!"
-
+#Gallery
+gallerylinks:
+ - {imagename: "1.jpg", thumbnail: "1.jpg",  datasubhtml: "Native Minds Tour Group", datasubparagraph: ""}
+ - {imagename: "2.jpg", thumbnail: "2.jpg", datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "3.jpg", thumbnail: "3.jpg", datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "4.jpg", thumbnail: "4.jpg", datasubhtml: "Big Hole Kimberley", datasubparagraph: ""}
+ - {imagename: "5.jpg", thumbnail: "5.jpg", datasubhtml: "Big Hole Complex Kimberley", datasubparagraph: ""}
+ - {imagename: "6.jpg", thumbnail: "6.jpg", datasubhtml: "Big Hole Complex Kimberley", datasubparagraph: ""}
+ - {imagename: "7.jpg", thumbnail: "7.jpg", datasubhtml: "Cricket", datasubparagraph: ""}
+ - {imagename: "8.jpg", thumbnail: "8.jpg", datasubhtml: "Diamond", datasubparagraph: ""}
+ - {imagename: "9.jpg", thumbnail: "9.jpg", datasubhtml: "Edge of Kimberley Mine, 1872, shows 15 road ways that bisected the diggings", datasubparagraph: ""}
+ - {imagename: "10.jpg", thumbnail: "10.jpg", datasubhtml: "Fishing at Modderrivier", datasubparagraph: ""}
+ - {imagename: "11.jpg", thumbnail: "11.jpg", datasubhtml: "Fly Fishing", datasubparagraph: ""}
+ - {imagename: "12.jpg", thumbnail: "12.jpg", datasubhtml: "Galeshewe Uprising Monument", datasubparagraph: ""}
+ - {imagename: "13.jpg", thumbnail: "13.jpg", datasubhtml: "kimberley", datasubparagraph: ""}
+ - {imagename: "14.jpg", thumbnail: "14.jpg", datasubhtml: "kimberley", datasubparagraph: ""}
+ - {imagename: "15.jpg", thumbnail: "15.jpg", datasubhtml: "Kimberley McGregor museum", datasubparagraph: ""}
+ - {imagename: "16.jpg", thumbnail: "16.jpg", datasubhtml: "Magersfontein Museum", datasubparagraph: ""}
+ - {imagename: "17.jpg", thumbnail: "17.jpg", datasubhtml: "Mattanu Private Game Reserve", datasubparagraph: ""}
+ - {imagename: "18.jpg",thumbnail: "18.jpg", datasubhtml: "Mokala Tsessebe", datasubparagraph: ""}
+ - {imagename: "19.jpg", thumbnail: "19.jpg", datasubhtml: "Mokala Wild life Zebra", datasubparagraph: ""}
+ - {imagename: "20.jpg", thumbnail: "20.jpg",  datasubhtml: "MSICC", datasubparagraph: ""}
+ - {imagename: "21.jpg", thumbnail: "21.jpg", datasubhtml: "Rock Painting", datasubparagraph: ""}
+ - {imagename: "22.jpg", thumbnail: "22.jpg", datasubhtml: "Sol Plaatje Museum and Literature", datasubparagraph: ""}
 # Footer
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=dsa_org", icon: "twitter"}

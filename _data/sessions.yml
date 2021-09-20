@@ -87,11 +87,20 @@
   complexity: "Intermediate"
   presentation: ""
 -
+  id: hackathon_01
+  title: "Hackathon"
+  description: "Hackathon"
+  subtype: presentation
+  speakers: [zindi]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
   id: networking_04
   title: "Breakout Sessions Networking and one on one’s with facilitators"
   description: "Breakout Sessions Networking and one on one’s with facilitators"
   subtype: presentation
-  speakers: [morine, mpofu, dina, neema, ernest, claire, hewitt, suvodeep]
+  speakers: [morine, mpofu, dina, neema, ernest, claire, hewitt, suvodeep, zindi]
   language: en
   complexity: "Intermediate"
   presentation: ""

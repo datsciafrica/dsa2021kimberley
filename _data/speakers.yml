@@ -527,6 +527,13 @@
   company: "Facebook"
   thumbnailUrl: person.jpg 
 -
+  id: zindi
+  name: "Zindi"
+  surname: "team"
+  title: "TBC"
+  company: "Zindi"
+  thumbnailUrl: person.jpg 
+-
   id: emmanuel
   name: "Emmanuel"
   surname: "Mupuya"
@@ -556,6 +563,8 @@
   title: "TBC"
   company: "TBC"
   thumbnailUrl: GabrielKiarieNjoroge.jpg
+  
+  
 
 
   
