@@ -46,9 +46,9 @@ navigationLinks:
  # - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/gallery/", text: "Gallery"}
  - {permalink: "/news/", text: "News"}
-# - {permalink: "/team/", text: "Team"}
+ - {permalink: "/team/", text: "Team"}
+ - {permalink: "/gallery/", text: "Gallery"}
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Virtual Field Work"}
  - {link: "http://www.datascienceafrica.org#events", text: "Past Meetings"}
