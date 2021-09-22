@@ -8,8 +8,9 @@
             <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
             <p>{{ site.eventDate }}</p>
             <p>{{ site.sitetheme }}</p>
+            
             {% for button in site.heroButtons %}
-            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-danger " {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+            <a href="{% if button.permalink != null %} {{ button.permalink}} {% else %} {{ button.link }} {% endif %}" class="btn btn-danger " {% if button.link != null %}{% endif %} target="_blank">{{ button.text }}</a>
             {% endfor %}
             </div>
         <!-- <br> -->

@@ -75,8 +75,8 @@ heroButtons:
 startRegistration: "June 20, 2021"
 endRegistration: "July 28, 2021"
 heroButtons:
- - {permalink: "/tbd", text: "REGISTER NOW"}
- # - {permalink: "/tbd", text: "Submit Workshop Abstract"}
+ - {permalink: "https://docs.google.com/forms/d/e/1FAIpQLSeAlxpo-H3-qPyUWVs6H9BuwaS7dJsLCLVpiwVpn3olfrXujg/viewform", text: "Register for Summer School"}
+ - {permalink: "https://docs.google.com/forms/d/e/1FAIpQLScp5G487hQHEfiobEMYOXkQmG90JCj5f4PuFVoVKz9lwwqmMg/viewform", text: "Register for Workshop"}
 prepLinks:
  - {link: "https://jupyter.readthedocs.io/en/latest/", text: "Getting started with Jupyter notebooks"}
  - {link: "https://scipy-lectures.org", text: "Introductory SciPy lectures"}
