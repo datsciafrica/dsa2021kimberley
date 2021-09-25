@@ -166,8 +166,8 @@
   id: claire
   name: "Claire"
   surname: "Babirye"
-  title: "Lecturer"
-  company: "UTAMU"
+  title: "Research Assistant"
+  company: "Makerere AI Lab"
   thumbnailUrl: claire2.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/bitsclarybits"}
