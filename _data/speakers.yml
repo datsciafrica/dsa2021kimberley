@@ -436,13 +436,13 @@
 #  title: "Senior Data Analyst"
 #  company: "Independent Consultant"
 #  thumbnailUrl: ShelDSA.jpg
-## -
-##   id: sabelo
-##   name: "Sabelo"
-##   surname: "Mhlambi"
-##   title: "Fellow"
-##   company: "Berkman Klein Center for Internet & Society, Havard University"
-##   thumbnailUrl: sabelo.jpg
+-
+  id: sabelo
+  name: "Sabelo"
+  surname: "Mhlambi"
+  title: "Fellow"
+  company: "Berkman Klein Center for Internet & Society, Havard University"
+  thumbnailUrl: sabelo.jpg
 #-
 #  id: beatrice
 #  name: "Beatrice"
@@ -470,14 +470,14 @@
 ## DO NOT REMOTE THIS DUMMY SPEAKER. USED AS FILLER
 ##
 #
-#-
-#  id: dummy
-#  name: "TBC"
-#  surname: ""
-#  company: "TBC"
-#  title: "Title"
-#  bio: ""
-#  thumbnailUrl: person.jpg 
+-
+  id: dummy
+  name: "TBD"
+  surname: ""
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg 
 -
   id: suvodeep
   name: "Suvodeep"
@@ -527,6 +527,34 @@
   company: "Facebook"
   thumbnailUrl: person.jpg 
 -
+  id: spu
+  name: "SPU"
+  surname: "team"
+  title: "TBC"
+  company: "Sol Plaatje University (SPU)"
+  thumbnailUrl: person.jpg 
+-
+  id: wanaData
+  name: "WanaData/Code4Africa"
+  surname: ""
+  title: "TBC"
+  company: "WanaData/Code4Africa"
+  thumbnailUrl: person.jpg 
+-
+  id: asikana
+  name: "Asikana"
+  surname: ""
+  title: "TBC"
+  company: "Asikana"
+  thumbnailUrl: person.jpg 
+-
+  id: gedia
+  name: "Gedia"
+  surname: "team"
+  title: "TBC"
+  company: "Gedia"
+  thumbnailUrl: person.jpg 
+-
   id: zindi
   name: "Zindi"
   surname: "team"
@@ -549,6 +577,83 @@
   title: "ABSA UP Chair of Data Science"
   company: "University of Pretoria"
   thumbnailUrl: vukosi_marivate.jpg 
+-
+  id: kathleen
+  name: "Kathleen"
+  surname: "Siminyu"
+  title: "TBD"
+  company: "Masakhane"
+  thumbnailUrl: person.jpg 
+-
+  id: adaugo
+  name: "Adaugo"
+  surname: "Isaac"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: person.jpg 
+-
+  id: raesetje
+  name: "Raesetje"
+  surname: "Sefala"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: person.jpg 
+-
+  id: mohamed
+  name: "Mohamed"
+  surname: "Ahmed"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: person.jpg
+-
+  id: tabaro
+  name: "Tabaro"
+  surname: "Kabanda"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: person.jpg
+-
+  id: peter
+  name: "Peter"
+  surname: "Popoola"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: person.jpg
+-
+  id: thenjiwe
+  name: "Thenjiwe"
+  surname: "Kubheka"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: person.jpg
+-
+  id: moekestsi
+  name: "Moekestsi"
+  surname: "Mosia"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: person.jpg
+-
+  id: vernon
+  name: "Vernon"
+  surname: "Mosia"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: person.jpg
+-
+  id: tejumade
+  name: "Tejumade"
+  surname: "Afonja"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: person.jpg
+-
+  id: afua
+  name: "Afua"
+  surname: "Bruce"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: person.jpg
 -
   id: lorna
   name: "Lorna"

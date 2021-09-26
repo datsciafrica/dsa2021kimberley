@@ -209,93 +209,204 @@
   complexity: "Intermediate"
   presentation: "tbd"
 #--------------------------------------------------------------------------------------------------
-#- 
-#  id: poultry_diagnosis
-#  title: "Towards Automated Poultry Diseases Diagnostics"
-#  description: "TBD"
-#  subtype: keynote
-#  speakers: [dina]
-#  language: en
-#  complexity: "Intermediate"
-#  presentation: "tbd"
-#- 
-#  id: data_viz
-#  title: "Data Visualization : Communicating Insights and Results Effectively"
-#  description: "TBD"
-#  subtype: keynote
-#  speakers: [claire,dorothy,hewitt]
-#  language: en
-#  complexity: "Intermediate"
-#  presentation: "tbd"
-#- 
-#  id: classification_regression
-#  title: "Classification and Regression"
-#  description: "TBD"
-#  subtype: tutorial
-#  speakers: [mikesmith]
-#  language: en
-#  complexity: "Intermediate"
-#  presentation: "tbd"
-#- 
-#  id: satellite_analysis
-#  title: "Introduction to Spatial Data Analysis"
-#  description: "TBD"
-#  subtype: tutorial
-#  speakers: [johnquinn]
-#  language: en
-#  complexity: "Advanced"
-#  presentation: "tbd"
-#- 
-#  id: nlp
-#  title: "Natural Language Processing"
-#  description: "TBD"
-#  subtype: tutorial
-#  speakers: [melese]
-#  language: en
-#  complexity: "Intermediate"
-#  presentation: "tbd"
-#- 
-#  id: anomaly_detection
-#  title: "Anomaly Detection"
-#  description: "TBD"
-#  subtype: tutorial
-#  speakers: [tom,tadesse,irene]
-#  language: en
-#  complexity: "Intermediate"
-#  presentation: "https://github.com/datsciafrica/presentations/blob/master/kampala2020/dietterich-anomaly-detection-v3.pdf"
-#- 
-#  id: tahmo
-#  title: "Trans-African HydroMeteorological Observatory (TAHMO)"
-#  description: "Overview of data science use in the project"
-#  subtype: tutorial
-#  speakers: [tom,tadesse,irene]
-#  language: en
-#  complexity: "Intermediate"
-#  presentation: "https://github.com/datsciafrica/presentations/blob/master/kampala2020/dsa-tahmo-v4.pdf"
-#- 
-#  id: data_for_good
-#  title: "Data for Good"
-#  subtype: presentation
-#  speakers: [pompe]
-#  language: en
-#  complexity: "Intermediate"
-#  presentation: "tbd"
-#
-#  id: ml_health_ethics
-#  title: "Ethics in ML for Health"
-#  subtype: presentation
-#  speakers: [shalmali]
-#  language: en
-#  complexity: "Intermediate"
-#  presentation: "tbd"
-#- 
-#  id: social_media_analysis
-#  title: "Social Media Data Analysis"
-#  subtype: presentation
-#  speakers: [morine]
-#  language: en
-#  complexity: "Intermediate"
-#  presentation: "tbd"
+#Work Shop Day 1---------------------------------------------------------------------------
+- 
+  id: welcome_and_opening
+  title: "Welcome and Opening Remarks"
+  description: "TBD"
+  subtype: presentation
+  speakers: [spu]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+- 
+  id: history_DSA
+  title: "History of DSA"
+  description: "TBD"
+  subtype: presentation
+  speakers: [ciira]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: sponsor
+  title: "Sponsor"
+  description: "TBD"
+  subtype: presentation
+  speakers: [gedia]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: lacuna_fund
+  title: "Lacuna Fund"
+  description: "TBD"
+  subtype: presentation
+  speakers: [dina, team]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: masakhane
+  title: "Keynote#"
+  description: "TBD"
+  subtype: presentation
+  speakers: [kathleen]
+  language: en
+  complexity: "Advanced"
+  presentation: "tbd"
+- 
+  id: PP1
+  title: "PP1"
+  description: "TBD"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: WanaData_project
+  title: "WanaData Project"
+  description: "TBD"
+  subtype: presentation
+  speakers: [adaugo]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: tbd
+  title: "TBD"
+  description: "TBD"
+  subtype: presentation
+  speakers: [raesetje]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+- 
+  id: spaceborne_thermography
+  title: "Applications on Spaceborne Thermography"
+  description: "TBD"
+  subtype: presentation
+  speakers: [mohamed, tabaro]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+- 
+  id: citizen_science
+  title: "Using citizen science for better understanding cities and neighbourhoods"
+  description: "TBD"
+  subtype: presentation
+  speakers: [suvodeep]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+- 
+  id: AI_ethics_ubuntu
+  title: "Keynote:# AI Ethics and Ubuntu"
+  subtype: presentation
+  speakers: [sabelo]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+-
+  id: networking_07
+  title: "Networking Session"
+  description: "TBD"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+#--------------------------------------------------------------------------------------------------
+#Work Shop Day 2---------------------------------------------------------------------------
+-
+  id: missing_data
+  title: "Techniques for proper missing data treatment"
+  subtype: presentation
+  speakers: [peter]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: recommendation_systems
+  title: "How AWS uses Big Data for Recommendation Systems"
+  subtype: presentation
+  speakers: [thenjiwe]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: TBD_08
+  title: "TBD"
+  subtype: presentation
+  speakers: [moekestsi,spu]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: potholes
+  title: "Severity Estimation of Potholes in Images Using"
+  subtype: presentation
+  speakers: [vernon]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: PP2
+  title: "PP2"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: TBD_08_2
+  title: "Keynote: #"
+  subtype: presentation
+  speakers: [tejumade]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: data_sharing
+  title: "Increasing Data Sharing in Africa"
+  subtype: presentation
+  speakers: [morine]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: women_in_IT_and_data_science
+  title: "Panel with women in IT and Data Science (practice and academia) and a male ally, with Q&A afterwards"
+  subtype: presentation
+  speakers: [wanaData, asikana, zindi]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: TBD_08_3
+  title: "TBD"
+  subtype: presentation
+  speakers: [afua]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: hackathon_winners
+  title: "Hackathon winners announcement"
+  subtype: presentation
+  speakers: [zindi]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: closing_remarks_02
+  title: "Closing Remarks"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
 #- 
 #  id: md4sg
 #  title: "MD4SG: Mechanism Design for Social Good"

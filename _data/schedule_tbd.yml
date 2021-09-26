@@ -200,208 +200,143 @@
 #
 ## --------------------------------------------------
 ## Workshop
-#-
-#  date: "2020-07-30"
-#  dateReadable: "July 30, 2020 - Workshop Day I"
-#  tracks:
-#    - {title: "Workshop", color: "#E31C23"}
-#  timeslots:
-#    - {
-#        startTime: "08:00",
-#        endTime: "08:30",
-#        sessionIds: [welcome-remarks]
-#    }
-#    - {
-#        startTime: "08:30",
-#        endTime: "09:00",
-#        sessionIds: [keynote_dina]
-#    }
-#    - {
-#        startTime: "09:00",
-#        endTime: "09:20",
-#        sessionIds: [paper1]
-#    }
-#    - {
-#        startTime: "09:20",
-#        endTime: "09:40",
-#        sessionIds: [paper2]
-#    }
-#    - {
-#        startTime: "09:40",
-#        endTime: "10:00",
-#        sessionIds: [paper3]
-#    }
-#    - {
-#    	startTime: "10:00",
-#    	endTime: "10:30",
-#    	sessionIds: [keynote_Engineer]
-#    }
-#    - {
-#        startTime: "10:30",
-#        endTime: "11:10",
-#        sessionIds: [blank]
-#    }
-#    - {
-#    	startTime: "11:10",
-#    	endTime: "11:45",
-#    	sessionIds: [fb_recruiting]
-#    }
-#    - {
-#        startTime: "11:45",
-#        endTime: "12:30",
-#        sessionIds: [small-break]
-#    }
-#    - {
-#        # Keynote 2
-#        startTime: "12:30",
-#        endTime: "13:00",
-#        sessionIds: [keynote_Ernest]
-#    }
-#    - {
-#        startTime: "13:00",
-#        endTime: "13:20",
-#        sessionIds: [paper6]
-#    }
-#    - {
-#        startTime: "13:20",
-#        endTime: "13:40",
-#        sessionIds: [paper7]
-#    }
-#    - {
-#        startTime: "13:40",
-#        endTime: "14:00",
-#        sessionIds: [paper8]
-#    }
-#    - {
-#        # Panel
-#        startTime: "14:00",
-#        endTime: "14:30",
-#        sessionIds: [panel_agriculture_ai]
-#    }
-#    - {
-#        startTime: "14:30",
-#        endTime: "14:50",
-#        sessionIds: [jared_talk]
-#    }
-#    - {
-#        startTime: "14:50",
-#        endTime: "15:30",
-#        sessionIds: [blank]
-#    }
-#    - {
-#        startTime: "15:30",
-#        endTime: "16:00",
-#        sessionIds: [africapolis]
-#    }
-#    - {
-#        # Lacuna
-#        startTime: "16:00",
-#        endTime: "16:30",
-#        sessionIds: [social_connectedness]
-#    }
-#    - {
-#        startTime: "16:30",
-#        endTime: "17:00",
-#        sessionIds: [lacuna_fund_talk]
-#    }
-#    - {
-#        # day wrap up
-#        startTime: "17:00",
-#        endTime: "17:15",
-#        sessionIds: [day_wrap]
-#    }
-#-
-#  date: "2020-08-01"
-#  dateReadable: "August 1, 2020 - Workshop Day II"
-#  tracks:
-#    - {title: "Workshop", color: "#E31C23"}
-#  timeslots:
-#    - {
-#        startTime: "08:00",
-#        endTime: "08:30",
-#        sessionIds: [keynote_elaine]
-#    }
-#    - {
-#        startTime: "08:30",
-#        endTime: "08:50",
-#        sessionIds: [paper4]
-#    }
-#    - {
-#        startTime: "08:50",
-#        endTime: "09:10",
-#        sessionIds: [paper5]
-#    }
-#    - {
-#        startTime: "09:10",
-#        endTime: "09:40",
-#        sessionIds: [jason_talk]
-#    }
-#    - {
-#        startTime: "09:40",
-#        endTime: "10:00",
-#        sessionIds: [paper9]
-#    }
-#    - {
-#        startTime: "10:00",
-#        endTime: "10:20",
-#        sessionIds: [paper10]
-#    }
-#    - {
-#        startTime: "10:20",
-#        endTime: "11:00",
-#        sessionIds: [megain_talk]
-#    }
-#    # - {
-#    #     startTime: "10:30",
-#    #     endTime: "11:00",
-#    #     sessionIds: [papers]
-#    # }
-#    - {
-#        startTime: "11:00",
-#        endTime: "11:30",
-#        sessionIds: [blank]
-#    }
-#    # - {
-#    #     startTime: "11:20",
-#    #     endTime: "11:45",
-#    #     sessionIds: [tbd]
-#    # }
-#    - {
-#        startTime: "11:30",
-#        endTime: "12:30",
-#        sessionIds: [small-break]
-#    }
-#    - {
-#        # Keynote 2
-#        startTime: "12:30",
-#        endTime: "14:00",
-#        sessionIds: [UNGlobal_Pulse]
-#    
-#    }
-#    - {
-#        # Panel
-#        startTime: "14:00",
-#        endTime: "14:30",
-#        sessionIds: [beatrice_talk]
-#    }
-#    - {
-#        startTime: "14:30",
-#        endTime: "15:15",
-#        sessionIds: [dsa_ug]
-#    }
-#    - {
-#        startTime: "15:15",
-#        endTime: "16:00",
-#        sessionIds: [fb_hackathon] #sabelo_keynote
-#    }
-#    - {
-#        startTime: "16:00",
-#        endTime: "16:30",
-#        sessionIds: [dsa_grant]
-#    }
-#    - {
-#        # day wrap up
-#        startTime: "16:30",
-#        endTime: "17:00",
-#        sessionIds: [day_wrap]
-#    }
+-
+  date: "2021-10-07"
+  dateReadable: "October 7, 2021 - Workshop Day I"
+  tracks:
+    - {title: "Workshop", color: "#e21937"}
+  timeslots:
+    - {
+        startTime: "08:00",
+        endTime: "08:10",
+        sessionIds: [welcome_and_opening]
+    }
+    - {
+        startTime: "08:10",
+        endTime: "08:20",
+        sessionIds: [history_DSA]
+    }
+    - {
+        startTime: "08:20",
+        endTime: "08:30",
+        sessionIds: [sponsor]
+    }
+    - {
+        startTime: "08:30",
+        endTime: "09:00",
+        sessionIds: [lacuna_fund]
+    }
+    - {
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [masakhane]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:40",
+        sessionIds: [PP1]
+    }
+    - {
+    	startTime: "10:40",
+    	endTime: "10:50",
+    	sessionIds: [small-break]
+    }
+    - {
+        startTime: "10:50",
+        endTime: "11:15",
+        sessionIds: [WanaData_project]
+    }
+    - {
+    	startTime: "11:15",
+    	endTime: "11:40",
+    	sessionIds: [tbd]
+    }
+    - {
+        startTime: "11:40",
+        endTime: "12:05",
+        sessionIds: [spaceborne_thermography]
+    }
+    - {
+        startTime: "12:05",
+        endTime: "12:30",
+        sessionIds: [citizen_science]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:00",
+        sessionIds: [AI_ethics_ubuntu]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [networking_07]
+    }
+    
+-
+  date: "2021-10-08"
+  dateReadable: "October 8, 2021 - Workshop Day II"
+  tracks:
+    - {title: "Workshop", color: "#f89828"}
+  timeslots:
+    - {
+        startTime: "08:00",
+        endTime: "08:25",
+        sessionIds: [missing_data]
+    }
+    - {
+        startTime: "08:25",
+        endTime: "08:50",
+        sessionIds: [recommendation_systems]
+    }
+    - {
+        startTime: "08:50",
+        endTime: "09:15",
+        sessionIds: [TBD_08]
+    }
+    - {
+        startTime: "09:15",
+        endTime: "09:40",
+        sessionIds: [potholes]
+    }
+    - {
+        startTime: "09:40",
+        endTime: "10:35",
+        sessionIds: [PP2]
+    }
+    - {
+        startTime: "10:35",
+        endTime: "10:50",
+        sessionIds: [small-break]
+    }
+    - {
+        startTime: "10:50",
+        endTime: "11:15",
+        sessionIds: [TBD_08_2]
+    }
+    - {
+        startTime: "11:15",
+        endTime: "11:40",
+        sessionIds: [data_sharing]
+    }
+    - {
+        # Panel
+        startTime: "11:40",
+        endTime: "12:40",
+        sessionIds: [women_in_IT_and_data_science]
+    }
+    - {
+        startTime: "12:40",
+        endTime: "13:05",
+        sessionIds: [TBD_08_3]
+    }
+    - {
+        startTime: "13:05",
+        endTime: "13:25",
+        sessionIds: [hackathon_winners] #sabelo_keynote
+    }
+    - {
+        # day wrap up
+        startTime: "13:25",
+        endTime: "",
+        sessionIds: [closing_remarks_02]
+    }
