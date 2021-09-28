@@ -514,15 +514,15 @@
     - {name: "site", link: "https://www.linkedin.com/in/t-anani-sawadogo-693b0558/"}
 -
   id: NVIDIA
-  name: "NVIDIA"
-  surname: "team"
-  title: "TBC"
+  name: "Manal"
+  surname: "Jalloul"
+  title: "NVIDIA Certified Instructor"
   company: "NVIDIA"
-  thumbnailUrl: person.jpg 
+  thumbnailUrl: manalJallou.png 
 -
   id: Facebook
-  name: "Facebook"
-  surname: "team"
+  name: "Luis"
+  surname: "Cabanzón Gutiérrez"
   title: "TBC"
   company: "Facebook"
   thumbnailUrl: person.jpg 
@@ -587,10 +587,10 @@
 -
   id: adaugo
   name: "Adaugo"
-  surname: "Isaac"
+  surname: "Trinitas"
   title: "TBD"
-  company: "TBD"
-  thumbnailUrl: person.jpg 
+  company: "WanaData, Data Academy, Code for Africa"
+  thumbnailUrl: adaugoTrinitasOnyebuchi.png 
 -
   id: raesetje
   name: "Raesetje"
@@ -625,14 +625,14 @@
   surname: "Kubheka"
   title: "TBD"
   company: "TBD"
-  thumbnailUrl: person.jpg
+  thumbnailUrl: thenjiweKubheka.png
 -
   id: moekestsi
   name: "Moekestsi"
   surname: "Mosia"
   title: "TBD"
   company: "TBD"
-  thumbnailUrl: person.jpg
+  thumbnailUrl: mosiaMoeketsi.png
 -
   id: vernon
   name: "Vernon"
@@ -644,9 +644,9 @@
   id: tejumade
   name: "Tejumade"
   surname: "Afonja"
-  title: "TBD"
-  company: "TBD"
-  thumbnailUrl: person.jpg
+  title: "Co-founder"
+  company: "AI Saturdays (Lagos)"
+  thumbnailUrl: zKAUJb6T_400x400.jpg
 -
   id: afua
   name: "Afua"
@@ -658,15 +658,15 @@
   id: lorna
   name: "Lorna"
   surname: "Mugambi"
-  title: "TBC"
-  company: "TBC"
+  title: "Research intern"
+  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
   thumbnailUrl: LornaMugambi.jpg
 -
   id: gabriel
   name: "Gabriel"
   surname: "Kiarie"
-  title: "TBC"
-  company: "TBC"
+  title: "Research intern"
+  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
   thumbnailUrl: GabrielKiarieNjoroge.jpg
   
   

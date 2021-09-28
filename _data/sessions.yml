@@ -118,8 +118,8 @@
   presentation: ""
 -
   id: fundamentals_IoT
-  title: "Fundamentals of IoT"
-  description: "Fundamentals of IoT"
+  title: "IoT Data Processing"
+  description: "IoT Data Processing"
   subtype: presentation
   speakers: [ciira, jason, lorna, gabriel]
   language: en
