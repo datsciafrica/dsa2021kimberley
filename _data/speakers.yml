@@ -470,14 +470,7 @@
 ## DO NOT REMOTE THIS DUMMY SPEAKER. USED AS FILLER
 ##
 #
--
-  id: dummy
-  name: "TBD"
-  surname: ""
-  company: "TBD"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.jpg 
+
 -
   id: suvodeep
   name: "Suvodeep"
@@ -519,6 +512,64 @@
   title: "NVIDIA Certified Instructor"
   company: "NVIDIA"
   thumbnailUrl: manalJallou.png 
+-
+  id: vukosi
+  name: "Vukosi"
+  surname: "Marivate"
+  title: "ABSA UP Chair of Data Science"
+  company: "University of Pretoria"
+  thumbnailUrl: vukosi_marivate.jpg 
+-
+  id: lorna
+  name: "Lorna"
+  surname: "Mugambi"
+  title: "Research intern"
+  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
+  thumbnailUrl: LornaMugambi.jpg
+-
+  id: gabriel
+  name: "Gabriel"
+  surname: "Kiarie"
+  title: "Research intern"
+  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
+  thumbnailUrl: GabrielKiarieNjoroge.jpg
+-
+  id: adaugo
+  name: "Adaugo"
+  surname: "Trinitas"
+  title: "TBD"
+  company: "WanaData, Data Academy, Code for Africa"
+  thumbnailUrl: adaugoTrinitasOnyebuchi.png 
+-
+  id: thenjiwe
+  name: "Thenjiwe"
+  surname: "Kubheka"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: thenjiweKubheka.png
+-
+  id: moekestsi
+  name: "Moekestsi"
+  surname: "Mosia"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: mosiaMoeketsi.png
+-
+  id: tejumade
+  name: "Tejumade"
+  surname: "Afonja"
+  title: "Co-founder"
+  company: "AI Saturdays (Lagos)"
+  thumbnailUrl: zKAUJb6T_400x400.jpg
+-
+  id: emmanuel
+  name: "Emmanuel"
+  surname: "Mupuya"
+  title: "Field Facilitator"
+  company: "Digital Opportunity Trust"
+  thumbnailUrl: person.jpg
+  social:
+    - {name: "site", link: "https://www.linkedin.com/in/emmanuel-mupuya-a2b03173/"}
 -
   id: Facebook
   name: "Luis"
@@ -562,35 +613,12 @@
   company: "Zindi"
   thumbnailUrl: person.jpg 
 -
-  id: emmanuel
-  name: "Emmanuel"
-  surname: "Mupuya"
-  title: "Field Facilitator"
-  company: "Digital Opportunity Trust"
-  thumbnailUrl: person.jpg
-  social:
-    - {name: "site", link: "https://www.linkedin.com/in/emmanuel-mupuya-a2b03173/"}
--
-  id: vukosi
-  name: "Vukosi"
-  surname: "Marivate"
-  title: "ABSA UP Chair of Data Science"
-  company: "University of Pretoria"
-  thumbnailUrl: vukosi_marivate.jpg 
--
   id: kathleen
   name: "Kathleen"
   surname: "Siminyu"
   title: "TBD"
   company: "Masakhane"
   thumbnailUrl: person.jpg 
--
-  id: adaugo
-  name: "Adaugo"
-  surname: "Trinitas"
-  title: "TBD"
-  company: "WanaData, Data Academy, Code for Africa"
-  thumbnailUrl: adaugoTrinitasOnyebuchi.png 
 -
   id: raesetje
   name: "Raesetje"
@@ -620,33 +648,12 @@
   company: "TBD"
   thumbnailUrl: person.jpg
 -
-  id: thenjiwe
-  name: "Thenjiwe"
-  surname: "Kubheka"
-  title: "TBD"
-  company: "TBD"
-  thumbnailUrl: thenjiweKubheka.png
--
-  id: moekestsi
-  name: "Moekestsi"
-  surname: "Mosia"
-  title: "TBD"
-  company: "TBD"
-  thumbnailUrl: mosiaMoeketsi.png
--
   id: vernon
   name: "Vernon"
   surname: "Mosia"
   title: "TBD"
   company: "TBD"
   thumbnailUrl: person.jpg
--
-  id: tejumade
-  name: "Tejumade"
-  surname: "Afonja"
-  title: "Co-founder"
-  company: "AI Saturdays (Lagos)"
-  thumbnailUrl: zKAUJb6T_400x400.jpg
 -
   id: afua
   name: "Afua"
@@ -655,19 +662,13 @@
   company: "TBD"
   thumbnailUrl: person.jpg
 -
-  id: lorna
-  name: "Lorna"
-  surname: "Mugambi"
-  title: "Research intern"
-  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
-  thumbnailUrl: LornaMugambi.jpg
--
-  id: gabriel
-  name: "Gabriel"
-  surname: "Kiarie"
-  title: "Research intern"
-  company: "Center for Data Science and AI, Dedan Kimathi University of Technology"
-  thumbnailUrl: GabrielKiarieNjoroge.jpg
+  id: dummy
+  name: "TBD"
+  surname: ""
+  company: "TBD"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg 
   
   
 
