@@ -575,6 +575,13 @@
   company: "TBD"
   thumbnailUrl: peterPopoola.png
 -
+  id: wanaData
+  name: "Tricia"
+  surname: "Govindasamy"
+  title: "TBC"
+  company: "WanaData/Code4Africa"
+  thumbnailUrl: tricia.png
+-
   id: emmanuel
   name: "Emmanuel"
   surname: "Mupuya"
@@ -590,13 +597,6 @@
   surname: "team"
   title: "TBC"
   company: "Sol Plaatje University (SPU)"
-  thumbnailUrl: person.jpg 
--
-  id: wanaData
-  name: "WanaData/Code4Africa"
-  surname: ""
-  title: "TBC"
-  company: "WanaData/Code4Africa"
   thumbnailUrl: person.jpg 
 -
   id: asikana
