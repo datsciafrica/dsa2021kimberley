@@ -561,6 +561,20 @@
   company: "AI Saturdays (Lagos)"
   thumbnailUrl: zKAUJb6T_400x400.jpg
 -
+  id: Facebook
+  name: "Luis"
+  surname: "Cabanzón Gutiérrez"
+  title: "Data Engineer"
+  company: "Facebook"
+  thumbnailUrl: luis.png 
+-
+  id: peter
+  name: "Peter"
+  surname: "Popoola"
+  title: "TBD"
+  company: "TBD"
+  thumbnailUrl: peterPopoola.png
+-
   id: emmanuel
   name: "Emmanuel"
   surname: "Mupuya"
@@ -569,13 +583,7 @@
   thumbnailUrl: person.jpg
   social:
     - {name: "site", link: "https://www.linkedin.com/in/emmanuel-mupuya-a2b03173/"}
--
-  id: Facebook
-  name: "Luis"
-  surname: "Cabanzón Gutiérrez"
-  title: "TBC"
-  company: "Facebook"
-  thumbnailUrl: person.jpg 
+
 -
   id: spu
   name: "SPU"
@@ -636,13 +644,6 @@
   id: tabaro
   name: "Tabaro"
   surname: "Kabanda"
-  title: "TBD"
-  company: "TBD"
-  thumbnailUrl: person.jpg
--
-  id: peter
-  name: "Peter"
-  surname: "Popoola"
   title: "TBD"
   company: "TBD"
   thumbnailUrl: person.jpg
