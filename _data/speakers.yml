@@ -550,8 +550,8 @@
   id: moekestsi
   name: "Moekestsi"
   surname: "Mosia"
-  title: "TBD"
-  company: "TBD"
+  title: "SPU team"
+  company: "Sol Plaatje University (SPU)"
   thumbnailUrl: mosiaMoeketsi.png
 -
   id: tejumade
@@ -572,7 +572,7 @@
   name: "Peter"
   surname: "Popoola"
   title: "TBD"
-  company: "TBD"
+  company: "Sol Plaatje University (SPU)"
   thumbnailUrl: peterPopoola.png
 -
   id: wanaData
@@ -581,6 +581,20 @@
   title: "TBC"
   company: "WanaData/Code4Africa"
   thumbnailUrl: tricia.png
+-
+  id: nimy
+  name: "Nimy"
+  surname: "Eli Bila"
+  title: "SPU team"
+  company: "Sol Plaatje University (SPU)"
+  thumbnailUrl: nimy.png 
+-
+  id: melvin
+  name: "Melvin"
+  surname: "Kisten"
+  title: "SPU team"
+  company: "Sol Plaatje University (SPU)"
+  thumbnailUrl: melvin.png 
 -
   id: emmanuel
   name: "Emmanuel"

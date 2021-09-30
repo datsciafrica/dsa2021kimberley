@@ -336,10 +336,10 @@
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: TBD_08
-  title: "TBD"
+  id: cloud-based
+  title: "Building Cloud-Based Serverless Data Platform for Learning Analytics"
   subtype: presentation
-  speakers: [moekestsi,spu]
+  speakers: [moekestsi, nimy, melvin]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
