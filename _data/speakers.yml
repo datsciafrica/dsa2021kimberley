@@ -583,7 +583,7 @@
   thumbnailUrl: tricia.png
 -
   id: nimy
-  name: "Nimy"
+  name: "Nimy,"
   surname: "Eli Bila"
   title: "SPU team"
   company: "Sol Plaatje University (SPU)"
@@ -664,9 +664,9 @@
 -
   id: vernon
   name: "Vernon"
-  surname: "Mosia"
-  title: "TBD"
-  company: "TBD"
+  surname: "Kok"
+  title: "SPU team"
+  company: "Sol Plaatje University (SPU)"
   thumbnailUrl: person.jpg
 -
   id: afua

@@ -147,8 +147,8 @@
 #Summer School Day 3---------------------------------------------------------------------------
 -
   id: big_data
-  title: "Big Data Manipulation"
-  description: "Introduction to the summer school"
+  title: "Big Data: Data Engineering at scale"
+  description: "Big Data: Data Engineering at scale"
   subtype: presentation
   speakers: [Facebook]
   language: en
@@ -345,7 +345,7 @@
   presentation: "tbd"
 - 
   id: potholes
-  title: "Severity Estimation of Potholes in Images Using"
+  title: "Severity Estimation of Potholes in Imagery using Convolutional Neural Networks"
   subtype: presentation
   speakers: [vernon]
   language: en
