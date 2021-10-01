@@ -213,7 +213,7 @@
 - 
   id: welcome_and_opening
   title: "Welcome and Opening Remarks"
-  description: "TBD"
+  description: "Welcome and Opening Remarks"
   subtype: presentation
   speakers: [spu]
   language: en

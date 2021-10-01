@@ -596,6 +596,13 @@
   company: "Sol Plaatje University (SPU)"
   thumbnailUrl: melvin.png 
 -
+  id: spu
+  name: "Prof Mary"
+  surname: "Jean Baxen"
+  title: "Deputy Vice Chancellor (DVC)"
+  company: "Sol Plaatje University (SPU)"
+  thumbnailUrl: profMary.png 
+-
   id: emmanuel
   name: "Emmanuel"
   surname: "Mupuya"
@@ -604,14 +611,6 @@
   thumbnailUrl: person.jpg
   social:
     - {name: "site", link: "https://www.linkedin.com/in/emmanuel-mupuya-a2b03173/"}
-
--
-  id: spu
-  name: "SPU"
-  surname: "team"
-  title: "TBC"
-  company: "Sol Plaatje University (SPU)"
-  thumbnailUrl: person.jpg 
 -
   id: asikana
   name: "Asikana"
