@@ -603,6 +603,13 @@
   company: "Sol Plaatje University (SPU)"
   thumbnailUrl: profMary.png 
 -
+  id: nakasi
+  name: "Nakasi"
+  surname: "Rose"
+  title: "Research Assistant"
+  company: "Makerere AI Lab"
+  thumbnailUrl: rose.jpg 
+-
   id: emmanuel
   name: "Emmanuel"
   surname: "Mupuya"
@@ -627,8 +634,8 @@
   thumbnailUrl: person.jpg 
 -
   id: zindi
-  name: "Zindi"
-  surname: "team"
+  name: "Amy Bray,"
+  surname: "Zindi"
   title: "TBC"
   company: "Zindi"
   thumbnailUrl: person.jpg 
