@@ -617,6 +617,13 @@
   company: "DataKind"
   thumbnailUrl: AfuaBruce.png
 -
+  id: zindi
+  name: "Amy"
+  surname: "Bray"
+  title: "Data Science Intern"
+  company: "Zindi"
+  thumbnailUrl: amyBray.jpeg
+-
   id: emmanuel
   name: "Emmanuel"
   surname: "Mupuya"
@@ -638,13 +645,6 @@
   surname: "team"
   title: "TBC"
   company: "Gedia"
-  thumbnailUrl: person.jpg 
--
-  id: zindi
-  name: "Amy Bray,"
-  surname: "Zindi"
-  title: "TBC"
-  company: "Zindi"
   thumbnailUrl: person.jpg 
 -
   id: kathleen
