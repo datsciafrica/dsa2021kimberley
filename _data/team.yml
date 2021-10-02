@@ -7,7 +7,7 @@
   thumbnailUrl: placeholder_avatar.png
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/j_nabende"}
+    - {name: "twitter", link: "https://twitter.com/"}
     - {name: "site", link: "http://site.com/"}
 -
   id: 2
@@ -61,6 +61,16 @@
   social:
     - {name: "twitter", link: "https://twitter.com/CwaMaina"}
     - {name: "site", link: "http://ciirawamaina.com/"}
+#-
+#  id: 7
+#  name: "Sebolai"
+#  surname: "Hanna"
+#  title: "Facilitator"
+#  thumbnailUrl: SebolaiHanna.jpg
+#  team: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/"}
+#    - {name: "site", link: "http://site.com/"}
 
 
 #-

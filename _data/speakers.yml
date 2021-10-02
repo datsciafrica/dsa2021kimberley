@@ -124,19 +124,19 @@
 #  title: "Post Doc"
 #  bio: ""
 #  thumbnailUrl: mike.jpg
--
-  id: joyce
-  name: "Joyce"
-  surname: "Nabende"
-  company: "Makerere University"
-  title: "Lecturer & Head of AI Lab"
-  thumbnailUrl: joyce.jpg
-  bio: ""
-  social:
-    - {name: "twitter", link: "https://twitter.com/j_nabende"}
-    - {name: "site", link: "https://sites.google.com/view/jnabende/home?authuser=0"}
-  ribbon:
-    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+#-
+#  id: joyce
+#  name: "Joyce"
+#  surname: "Nabende"
+#  company: "Makerere University"
+#  title: "Lecturer & Head of AI Lab"
+#  thumbnailUrl: joyce.jpg
+#  bio: ""
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/j_nabende"}
+#    - {name: "site", link: "https://sites.google.com/view/jnabende/home?authuser=0"}
+#  ribbon:
+#    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 -
   id: morine
   name: "Morine"
@@ -610,6 +610,13 @@
   company: "Makerere AI Lab"
   thumbnailUrl: rose.jpeg 
 -
+  id: afua
+  name: "Afua"
+  surname: "Bruce"
+  title: "Chief Program Officer"
+  company: "DataKind"
+  thumbnailUrl: AfuaBruce.png
+-
   id: emmanuel
   name: "Emmanuel"
   surname: "Mupuya"
@@ -673,13 +680,6 @@
   surname: "Kok"
   title: "SPU team"
   company: "Sol Plaatje University (SPU)"
-  thumbnailUrl: person.jpg
--
-  id: afua
-  name: "Afua"
-  surname: "Bruce"
-  title: "TBD"
-  company: "TBD"
   thumbnailUrl: person.jpg
 -
   id: dummy

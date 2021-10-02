@@ -204,7 +204,7 @@
   title: "Breakout Sessions, Networking and one on one’s with facilitators"
   description: "TBD"
   subtype: presentation
-  speakers: [Facebook, morine, emmanuel, vukosi, joyce, benakera, neil, andrei, elaine]
+  speakers: [Facebook, morine, emmanuel, vukosi, nakasi, benakera, neil, andrei, elaine]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -384,8 +384,8 @@
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: TBD_08_3
-  title: "TBD"
+  id: art_of_the_possible
+  title: "The Art of the Possible."
   subtype: presentation
   speakers: [afua]
   language: en
