@@ -213,7 +213,6 @@
 - 
   id: welcome_and_opening
   title: "Welcome and Opening Remarks"
-  description: "Welcome and Opening Remarks"
   subtype: presentation
   speakers: [spu]
   language: en
@@ -222,7 +221,6 @@
 - 
   id: history_DSA
   title: "History of DSA"
-  description: "TBD"
   subtype: presentation
   speakers: [ciira]
   language: en
@@ -231,7 +229,6 @@
 - 
   id: sponsor
   title: "Sponsor"
-  description: "TBD"
   subtype: presentation
   speakers: [gedia]
   language: en
@@ -240,7 +237,6 @@
 - 
   id: lacuna_fund
   title: "Lacuna Fund"
-  description: "TBD"
   subtype: presentation
   speakers: [dina, team]
   language: en
@@ -249,7 +245,6 @@
 - 
   id: masakhane
   title: "Keynote#"
-  description: "TBD"
   subtype: presentation
   speakers: [kathleen]
   language: en
@@ -258,7 +253,6 @@
 - 
   id: PP1
   title: "PP1"
-  description: "TBD"
   subtype: presentation
   speakers: [dummy]
   language: en
@@ -267,16 +261,14 @@
 - 
   id: WanaData_project
   title: "WanaData Project"
-  description: "TBD"
   subtype: presentation
   speakers: [adaugo]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: tbd
-  title: "TBD"
-  description: "TBD"
+  id: create_groundtruth_datasets
+  title: "How else can we think about creating ground truth datasets to answer research questions?"
   subtype: presentation
   speakers: [raesetje]
   language: en
@@ -285,7 +277,6 @@
 - 
   id: spaceborne_thermography
   title: "Applications on Spaceborne Thermography"
-  description: "TBD"
   subtype: presentation
   speakers: [mohamed, tabaro]
   language: en
@@ -294,7 +285,6 @@
 - 
   id: citizen_science
   title: "Using citizen science for better understanding cities and neighbourhoods"
-  description: "TBD"
   subtype: presentation
   speakers: [suvodeep]
   language: en
@@ -377,9 +367,9 @@
   presentation: "tbd"
 - 
   id: women_in_IT_and_data_science
-  title: "Panel with women in IT and Data Science (practice and academia) and a male ally, with Q&A afterwards"
+  title: "Challenges and Opportunities for Women in IT and Data Science with Q&A"
   subtype: presentation
-  speakers: [wanaData, asikana, zindi]
+  speakers: [wanaData, chisenga, celina, martin]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"

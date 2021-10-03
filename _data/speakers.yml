@@ -228,17 +228,6 @@
 #  social:
 #    - {name: "site", link: "www.linkedin.com/in/michaelmelese"}
 #-
-#  id: martin
-#  name: "Martin Gordon"
-#  surname: "Mubangizi"
-#  title: "Researcher"
-#  company: "UN Pulse Lab, Kampala"
-#  thumbnailUrl: martin.png
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
-#  ribbon:
-#    - {abbr: "DBA", title: "DSA Board Secretary", url: "https://datascienceafrica.org"}
-#-
 #  id: justus
 #  name: "Justus Bernard"
 #  surname: "Muhwezi"
@@ -624,6 +613,31 @@
   company: "Zindi"
   thumbnailUrl: amyBray.jpeg
 -
+  id: celina
+  name: "Celina"
+  surname: "Lee"
+  title: "CEO and Co-founder"
+  company: "Zindi"
+  thumbnailUrl: celine.png
+-
+  id: chisenga
+  name: "Chisenga"
+  surname: "Muyoya"
+  title: "Co-founder"
+  company: "Asikana Network"
+  thumbnailUrl: chisenga.jpeg 
+-
+  id: martin
+  name: "Martin Gordon"
+  surname: "Mubangizi"
+  title: "Officer in Charge and Data Science Officer"
+  company: "UN Data Innovations Lab, Kampala"
+  thumbnailUrl: martin.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Secretary", url: "https://datascienceafrica.org"}
+-
   id: emmanuel
   name: "Emmanuel"
   surname: "Mupuya"
@@ -632,13 +646,6 @@
   thumbnailUrl: person.jpg
   social:
     - {name: "site", link: "https://www.linkedin.com/in/emmanuel-mupuya-a2b03173/"}
--
-  id: asikana
-  name: "Asikana"
-  surname: ""
-  title: "TBC"
-  company: "Asikana"
-  thumbnailUrl: person.jpg 
 -
   id: gedia
   name: "Gedia"

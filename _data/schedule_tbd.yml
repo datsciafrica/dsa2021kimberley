@@ -249,7 +249,7 @@
     - {
     	startTime: "11:15",
     	endTime: "11:40",
-    	sessionIds: [tbd]
+    	sessionIds: [create_groundtruth_datasets]
     }
     - {
         startTime: "11:40",
