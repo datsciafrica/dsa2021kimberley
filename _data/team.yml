@@ -61,16 +61,16 @@
   social:
     - {name: "twitter", link: "https://twitter.com/CwaMaina"}
     - {name: "site", link: "http://ciirawamaina.com/"}
-#-
-#  id: 7
-#  name: "Sebolai"
-#  surname: "Hanna"
-#  title: "Facilitator"
-#  thumbnailUrl: SebolaiHanna.jpg
-#  team: true
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/"}
-#    - {name: "site", link: "http://site.com/"}
+-
+  id: 7
+  name: "Sebolai"
+  surname: "Hanna"
+  title: "Technical Support"
+  thumbnailUrl: SebolaiHanna.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "site", link: "http://site.com/"}
 
 
 #-

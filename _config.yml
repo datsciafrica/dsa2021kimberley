@@ -64,9 +64,9 @@ heroTitle: "Virtual DSA <typeout> 2021"
 eventDate: "4<sup>th</sup> - 8<sup>th</sup> October, 2021"
 typeoutTextValues: '"", "Event", "Field Work", "Summer School", "Workshop"'
 typeoutFallback: "Event"
-heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+#heroButtons:
+# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+# - {permalink: "/#tickets", text: "Buy tickets"}
 #heroImage: "makerere-main.jpg"
 # Photo by Damian Patkowski on Unsplash
 #heroTitle: "Virtual Data Science Africa"
@@ -74,9 +74,9 @@ heroButtons:
 #eventDate: "July 24 - Aug 1, 2020"
 startRegistration: "June 20, 2021"
 endRegistration: "July 28, 2021"
-heroButtons:
- - {permalink: "https://docs.google.com/forms/d/e/1FAIpQLSeAlxpo-H3-qPyUWVs6H9BuwaS7dJsLCLVpiwVpn3olfrXujg/viewform", text: "Register for Summer School"}
- - {permalink: "https://docs.google.com/forms/d/e/1FAIpQLScp5G487hQHEfiobEMYOXkQmG90JCj5f4PuFVoVKz9lwwqmMg/viewform", text: "Register for Workshop"}
+#heroButtons:
+# - {permalink: "https://docs.google.com/forms/d/e/1FAIpQLSeAlxpo-H3-qPyUWVs6H9BuwaS7dJsLCLVpiwVpn3olfrXujg/viewform", text: "Register for Summer School"}
+# - {permalink: "https://docs.google.com/forms/d/e/1FAIpQLScp5G487hQHEfiobEMYOXkQmG90JCj5f4PuFVoVKz9lwwqmMg/viewform", text: "Register for Workshop"}
 prepLinks:
  - {link: "https://jupyter.readthedocs.io/en/latest/", text: "Getting started with Jupyter notebooks"}
  - {link: "https://scipy-lectures.org", text: "Introductory SciPy lectures"}
