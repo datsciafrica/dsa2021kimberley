@@ -26,8 +26,8 @@
   id: dina
   name: "Dina"
   surname: "Machuve"
-  company: "Nelson Mandela African Institute of Science and Technology"
-  title: "Lecturer"
+  company: "Lacuna Fund Steering Committee"
+  title: "Member"
   bio: ""
   thumbnailUrl: dina.jpg
   social:
@@ -609,7 +609,7 @@
   id: zindi
   name: "Amy"
   surname: "Bray"
-  title: "Data Science Intern"
+  title: "Competition Lead"
   company: "Zindi"
   thumbnailUrl: amyBray.jpeg
 -
@@ -688,6 +688,13 @@
   title: "SPU team"
   company: "Sol Plaatje University (SPU)"
   thumbnailUrl: person.jpg
+-
+  id: collins
+  name: "Collins"
+  surname: "Udanor"
+  title: "Data Science Specialist"
+  company: "University of Nigeria Nsukka"
+  thumbnailUrl: person.jpg 
 -
   id: dummy
   name: "TBD"
