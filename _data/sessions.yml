@@ -243,12 +243,20 @@
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: masakhane
-  title: "Keynote#"
+  id: ussd_combat_covid
+  title: "USSD Technology to Combat COVID-19 in Rural Areas in Malawi"
   subtype: presentation
-  speakers: [kathleen]
+  speakers: [rabson]
   language: en
-  complexity: "Advanced"
+  complexity: "Intermediate"
+  presentation: "tbd"
+- 
+  id: screen_echocardiograms
+  title: "Using Machine Learning to Screen Echocardiograms for Rheumatic Heart Disease"
+  subtype: presentation
+  speakers: [lorna]
+  language: en
+  complexity: "Intermediate"
   presentation: "tbd"
 - 
   id: PP1
@@ -342,12 +350,12 @@
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: PP2
-  title: "PP2"
+  id: masakhane
+  title: "Keynote#"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [kathleen]
   language: en
-  complexity: "Intermediate"
+  complexity: "Advanced"
   presentation: "tbd"
 - 
   id: SautiLearn

@@ -696,6 +696,13 @@
   company: "University of Nigeria Nsukka"
   thumbnailUrl: person.jpg 
 -
+  id: rabson
+  name: "Rabson"
+  surname: "Sayenda"
+  title: "Chancellor College"
+  company: "University of Malawi"
+  thumbnailUrl: person.jpg 
+-
   id: dummy
   name: "TBD"
   surname: ""
